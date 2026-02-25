@@ -1,5 +1,5 @@
 # 📈 Stock & Finance Daily Report
-> Date: 2026-02-25 | Updated: 21:18 UTC
+> Date: 2026-02-25 | Updated: 22:09 UTC
 
 ---
 
@@ -13,6 +13,13 @@
 | 📈 STAR 50 | 000688 | 1473.28 | +7.91 | **+0.54%** |
 | 📈 CSI 300 | 000300 | 4735.89 | +28.35 | **+0.60%** |
 | 📈 CSI 500 | 000905 | 8527.56 | +134.65 | **+1.60%** |
+
+## 🇭🇰 Hong Kong Stock Indices
+
+| Index | Code | Price | Change | Change % |
+|-------|------|-------|--------|----------|
+| 📈 Hang Seng Index | HSI | 26765.72 | +175.40 | **+0.66%** |
+| 📈 HSCEI | HSCEI | 9034.75 | +26.89 | **+0.30%** |
 
 ## 🇺🇸 US Stock Indices
 
@@ -52,4 +59,4 @@
 
 ---
 
-*Data Source: EastMoney*
+*Data Source: EastMoney, Sina Finance*
