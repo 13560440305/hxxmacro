@@ -1,0 +1,90 @@
+{
+  "generated": "2026-02-25T22:24:01.151155",
+  "crude_oil": [
+    {
+      "name": "WTI原油",
+      "name_en": "WTI Crude Oil",
+      "symbol": "WTI",
+      "current": 78.5,
+      "change": 0.85,
+      "change_percent": 1.09,
+      "unit": "美元/桶",
+      "trend": "📈",
+      "source": "市场数据",
+      "source_en": "Market Data"
+    },
+    {
+      "name": "布伦特原油",
+      "name_en": "Brent Crude Oil",
+      "symbol": "Brent",
+      "current": 82.35,
+      "change": 0.72,
+      "change_percent": 0.88,
+      "unit": "美元/桶",
+      "trend": "📈",
+      "source": "市场数据",
+      "source_en": "Market Data"
+    }
+  ],
+  "natural_gas": [
+    {
+      "name": "美国天然气",
+      "name_en": "US Natural Gas",
+      "symbol": "NG",
+      "current": 2.85,
+      "change": 0.05,
+      "change_percent": 1.78,
+      "unit": "美元/百万英热",
+      "trend": "📈",
+      "source": "市场数据"
+    }
+  ],
+  "fuel": [
+    {
+      "name": "燃料油",
+      "name_en": "Fuel Oil",
+      "symbol": "FU",
+      "current": 3520.0,
+      "change": 28.0,
+      "change_percent": 0.8,
+      "unit": "元/吨",
+      "trend": "📈",
+      "source": "市场数据"
+    },
+    {
+      "name": "汽油RBOB",
+      "name_en": "RBOB Gasoline",
+      "symbol": "RBOB",
+      "current": 2.45,
+      "change": 0.03,
+      "change_percent": 1.24,
+      "unit": "美元/加仑",
+      "trend": "📈",
+      "source": "市场数据"
+    }
+  ],
+  "coal": [
+    {
+      "name": "动力煤",
+      "name_en": "Thermal Coal",
+      "symbol": "ZC",
+      "current": 780.0,
+      "change": -5.0,
+      "change_percent": -0.64,
+      "unit": "元/吨",
+      "trend": "📉",
+      "source": "市场数据"
+    },
+    {
+      "name": "焦煤",
+      "name_en": "Coking Coal",
+      "symbol": "JM",
+      "current": 1820.0,
+      "change": 25.0,
+      "change_percent": 1.39,
+      "unit": "元/吨",
+      "trend": "📈",
+      "source": "市场数据"
+    }
+  ]
+}
