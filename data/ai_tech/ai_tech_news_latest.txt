@@ -1,0 +1,115 @@
+AI 与科技新闻简报 | 2026-02-25
+==================================================
+
+【1】OpenAI, the US government and Persona built an identity surveillance machine
+    摘要：Related ongoing thread: Discord cuts ties with identity verification software, Persona - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47136036...
+    来源：Hacker News | 相关公司：OpenAI
+
+【2】IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight
+    来源：Hacker News | 相关公司：Meta
+
+【3】OpenAI resets spending expectations, from $1.4T to $600B
+    来源：Hacker News | 相关公司：OpenAI
+
+【4】US Military leaders meet with Anthropic to argue against Claude safeguards
+    来源：Hacker News | 相关公司：Anthropic
+
+【5】Anthropic at Google Cloud Next 2026
+    摘要：Anthropic at Google Cloud Next 2026&nbsp;&nbsp;Anthropic
+    来源：Google News | 相关公司：Google
+
+【6】Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality
+    摘要：Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality&nbsp;&nbsp;Telekom
+    来源：Google News | 相关公司：Google
+
+【7】Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’
+    摘要：Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’&nbsp;&nbsp;Industrial Cyber
+    来源：Google News | 相关公司：Google
+
+【8】Google could reportedly invest $100M in AI cloud operator Fluidstack
+    摘要：Google could reportedly invest $100M in AI cloud operator Fluidstack&nbsp;&nbsp;SiliconANGLE
+    来源：Google News | 相关公司：Google
+
+【9】Google Cloud Security: Protecting the Cloud from AI Threats
+    摘要：Google Cloud Security: Protecting the Cloud from AI Threats&nbsp;&nbsp;Cyber Magazine
+    来源：Google News | 相关公司：Google
+
+【10】Google’s Cloud AI leads on the three frontiers of model capability
+    摘要：Google’s Cloud AI leads on the three frontiers of model capability&nbsp;&nbsp;TechCrunch
+    来源：Google News | 相关公司：Google
+
+【11】Google Cloud and Unilever Map the Future of AI-Powered Business
+    摘要：Google Cloud and Unilever Map the Future of AI-Powered Business&nbsp;&nbsp;Cloud Wars
+    来源：Google News | 相关公司：Google
+
+【12】Gemini 3.1 Pro on Gemini CLI, Gemini Enterprise, and Vertex AI
+    摘要：Gemini 3.1 Pro on Gemini CLI, Gemini Enterprise, and Vertex AI&nbsp;&nbsp;Google Cloud
+    来源：Google News | 相关公司：Google
+
+【13】Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected
+    摘要：Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely...
+    来源：Google News | 相关公司：Microsoft
+
+【14】203 Billion Reasons Why Microsoft Is a Buy in 2026
+    摘要：203 Billion Reasons Why Microsoft Is a Buy in 2026&nbsp;&nbsp;The Motley Fool
+    来源：Google News | 相关公司：Microsoft
+
+【15】Maia 200: The AI accelerator built for inference
+    摘要：Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog
+    来源：Google News | 相关公司：Microsoft
+
+【16】PostgreSQL on Azure supercharged for AI
+    摘要：PostgreSQL on Azure supercharged for AI&nbsp;&nbsp;Microsoft Azure
+    来源：Google News | 相关公司：Microsoft
+
+【17】G‑STAR transforms workplace support with an AI assistant integrated in Microsoft Teams
+    摘要：G‑STAR transforms workplace support with an AI assistant integrated in Microsoft Teams&nbsp;&nbsp;Microsoft
+    来源：Google News | 相关公司：Microsoft
+
+【18】MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs
+    摘要：MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs&nbsp;&nbsp;Microsoft
+    来源：Google News | 相关公司：Microsoft
+
+【19】Microsoft expands Sovereign Cloud security with governance, local productivity and AI
+    摘要：Microsoft expands Sovereign Cloud security with governance, local productivity and AI&nbsp;&nbsp;Help Net Security
+    来源：Google News | 相关公司：Microsoft
+
+【20】Microsoft Azure Local, 365 Local generally available: the cloud, offline
+    摘要：Microsoft Azure Local, 365 Local generally available: the cloud, offline&nbsp;&nbsp;Techzine Global
+    来源：Google News | 相关公司：Microsoft
+
+【21】Nvidia challenger AI chip startup MatX raised $500M
+    摘要：The startup was founded by former Google TPU engineers in 2023.
+    来源：TechCrunch | 相关公司：NVIDIA
+
+【22】Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers
+    摘要：Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.
+    来源：TechCrunch | 相关公司：NVIDIA
+
+【23】Anthropic won’t budge as Pentagon escalates AI dispute
+    摘要：The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises...
+    来源：TechCrunch | 相关公司：Anthropic
+
+【24】OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’
+    摘要：There is a lot of talk around AI agents taking over business processes and claiming that "SaaS is dead." While these predictions have moved SaaS...
+    来源：TechCrunch | 相关公司：OpenAI
+
+【25】IDF killed Gaza aid workers at point blank range in 2025 massacre: Report
+    摘要：Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...
+    来源：Hacker News
+
+【26】Ladybird adopts Rust, with help from AI
+    来源：Hacker News
+
+【27】How we rebuilt Next.js with AI in one week
+    来源：Hacker News
+
+【28】Firefox 148 Launches with AI Kill Switch Feature and More Enhancements
+    来源：Hacker News
+
+【29】Mercury 2: Fast reasoning LLM powered by diffusion
+    来源：Hacker News
+
+【30】Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)
+    来源：Hacker News
+
