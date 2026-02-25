@@ -1,0 +1,39 @@
+AI/科技新闻摘要 (2026-02-14 16:37:26)
+============================================================
+
+1. [Hacker News] Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL
+   链接: https://github.com/mickamy/sql-tap
+   分数: 80 | ID: 47011567
+
+2. [Hacker News] Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986
+   链接: https://www.wallstreetraider.com/story.html
+   分数: 224 | ID: 46954696
+
+3. [Hacker News] The Three Year Myth
+   链接: https://green.spacedino.net/the-three-year-myth/
+   分数: 24 | ID: 46965829
+
+4. [Hacker News] Understanding the Go Compiler: The Linker
+   链接: https://internals-for-interns.com/posts/the-go-linker/
+   分数: 54 | ID: 46936671
+
+5. [Hacker News] Show HN: Data Engineering Book – An open source, community-driven guide
+   链接: https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md
+   分数: 149 | ID: 47008163
+
+6. [Hacker News] Common Lisp Screenshots: today's CL applications in action
+   链接: http://www.lisp-screenshots.org
+   分数: 97 | ID: 46983873
+
+7. [Hacker News] GPT-5.2 derives a new result in theoretical physics
+   链接: https://openai.com/index/new-result-theoretical-physics/
+   分数: 462 | ID: 47006594
+
+8. [Hacker News] Building a TUI is easy now
+   链接: https://hatchet.run/blog/tuis-are-easy-now
+   分数: 213 | ID: 47005509
+
+9. [Hacker News] Backblaze Drive Stats for 2025
+   链接: https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/
+   分数: 55 | ID: 47011602
+

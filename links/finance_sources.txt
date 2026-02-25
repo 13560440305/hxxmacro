@@ -1,0 +1,28 @@
+# 财经数据源
+# 股票/指数
+1. 新浪财经美股页面 - 静态页面（需动态抓取）
+   https://finance.sina.com.cn/stock/usstock/
+
+2. 东方财富美股指数 - 静态页面（需动态抓取）
+   道琼斯: https://quote.eastmoney.com/us/DJI.html
+   纳斯达克: https://quote.eastmoney.com/us/IXIC.html
+   标普500: https://quote.eastmoney.com/us/INX.html
+
+3. Alpha Vantage - 需API密钥（免费申请）
+   文档: https://www.alphavantage.co/documentation/
+
+4. Twelve Data - 需API密钥（免费层有限）
+   文档: https://twelvedata.com/docs
+
+5. Financial Modeling Prep - 需API密钥（免费层有限）
+   文档: https://site.financialmodelingprep.com/developer/docs
+
+# 宏观数据
+6. 美联储经济数据 (FRED) - API需密钥
+   https://fred.stlouisfed.org/docs/api/fred/
+
+7. 中国国家统计局 - 公开数据（页面抓取）
+   http://www.stats.gov.cn/
+
+8. 世界银行公开数据 API
+   https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information
