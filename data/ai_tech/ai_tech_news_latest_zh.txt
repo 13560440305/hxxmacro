@@ -1,0 +1,145 @@
+AI 与科技新闻简报 | 2026-02-25
+==================================================
+
+【1】OpenAI、美国政府和Persona构建了身份监控机器
+    原文：OpenAI, the US government and Persona built an identity surveillance machine
+    摘要：正在进行的相关对话： Discord与身份验证软件Persona断绝了联系- https://news.ycombinator.com/item?id=47136036...
+    来源：Hacker News | 相关公司：OpenAI
+
+【2】美国国税局对Meta的策略在企业税斗争中开辟了新的战线
+    原文：IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight
+    来源：Hacker News | 相关公司：Meta
+
+【3】OpenAI将支出预期从$ 1.4T重置为$ 600B
+    原文：OpenAI resets spending expectations, from $1.4T to $600B
+    来源：Hacker News | 相关公司：OpenAI
+
+【4】美国军方领导人与Anthropic会面，反对克劳德的保障措施
+    原文：US Military leaders meet with Anthropic to argue against Claude safeguards
+    来源：Hacker News | 相关公司：Anthropic
+
+【5】Anthropic at 谷歌 云 Next 2026
+    原文：Anthropic at Google Cloud Next 2026
+    摘要：Anthropic在Google Cloud Next 2026 Anthropic
+    来源：Google News | 相关公司：Google
+
+【6】Dt. Telekom和Google Cloud ： AI-Agent MINDR提供卓越的网络质量
+    原文：Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality
+    摘要：Dt. Telekom和Google Cloud ： AI-Agent MINDR ，提供卓越的网络质量Telekom
+    来源：Google News | 相关公司：Google
+
+【7】谷歌云呼吁统一人工智能防御，因为能源部门面临网络“完美风暴”
+    原文：Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’
+    摘要：谷歌云呼吁统一人工智能防御，因为能源部门面临网络“完美风暴”工业网络
+    来源：Google News | 相关公司：Google
+
+【8】据报道，谷歌可能向人工智能云运营商Fluidstack投资1亿美元$
+    原文：Google could reportedly invest $100M in AI cloud operator Fluidstack
+    摘要：据报道，谷歌可能向人工智能云运营商Fluidstack SiliconANGLE投资1亿美元$
+    来源：Google News | 相关公司：Google
+
+【9】谷歌云安全：保护云免受人工智能威胁
+    原文：Google Cloud Security: Protecting the Cloud from AI Threats
+    摘要：谷歌云安全：保护云免受AI威胁网络杂志
+    来源：Google News | 相关公司：Google
+
+【10】谷歌的云人工智能在模型能力的三个前沿领域处于领先地位
+    原文：Google’s Cloud AI leads on the three frontiers of model capability
+    摘要：谷歌的云人工智能在模型功能的三个前沿领域处于领先地位TechCrunch
+    来源：Google News | 相关公司：Google
+
+【11】谷歌云和联合利华描绘人工智能业务的未来
+    原文：Google Cloud and Unilever Map the Future of AI-Powered Business
+    摘要：谷歌云和联合利华描绘了人工智能驱动的企业云大战的未来
+    来源：Google News | 相关公司：Google
+
+【12】Gemini 3.1 Pro ，适用于Gemini CLI、Gemini Enterprise和Vertex AI
+    原文：Gemini 3.1 Pro on Gemini CLI, Gemini Enterprise, and Vertex AI
+    摘要：Gemini 3.1 Pro ，适用于Gemini CLI、Gemini Enterprise和Vertex AI Google Cloud
+    来源：Google News | 相关公司：Google
+
+【13】Microsoft Sovereign Cloud增加了对大型AI模型的治理、生产力和支持，即使在完全断开连接的情况下也能安全运行
+    原文：Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected
+    摘要：Microsoft Sovereign Cloud增加了对大型AI模型的治理、生产力和支持，即使在完全...
+    来源：Google News | 相关公司：Microsoft
+
+【14】2026年收购微软的2030亿个理由
+    原文：203 Billion Reasons Why Microsoft Is a Buy in 2026
+    摘要：2026年微软收购Motley Fool的2030亿个理由
+    来源：Google News | 相关公司：Microsoft
+
+【15】MAIA 200 ：为推理而构建的人工智能加速器
+    原文：Maia 200: The AI accelerator built for inference
+    摘要：MAIA 200 ：为推理而构建的人工智能加速器微软官方博客
+    来源：Google News | 相关公司：Microsoft
+
+【16】Azure上的PostgreSQL为AI增压
+    原文：PostgreSQL on Azure supercharged for AI
+    摘要：PostgreSQL on Azure为AI Microsoft Azure增压
+    来源：Google News | 相关公司：Microsoft
+
+【17】G ‑ STAR通过集成在Microsoft Teams中的AI助手转变工作场所支持
+    原文：G‑STAR transforms workplace support with an AI assistant integrated in Microsoft Teams
+    摘要：G ‑ STAR通过集成在Microsoft Teams中的AI助手转变工作场所支持
+    来源：Google News | 相关公司：Microsoft
+
+【18】MWC 2026 ：微软帮助电信实现AI ROI -微软行业博客
+    原文：MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs
+    摘要：MWC 2026 ：微软帮助电信实现AI ROI -微软行业博客微软
+    来源：Google News | 相关公司：Microsoft
+
+【19】微软通过治理、本地生产力和人工智能扩展Sovereign Cloud安全性
+    原文：Microsoft expands Sovereign Cloud security with governance, local productivity and AI
+    摘要：微软通过治理、本地生产力和人工智能帮助网络安全来扩展Sovereign Cloud的安全性
+    来源：Google News | 相关公司：Microsoft
+
+【20】Microsoft Azure本地， 365本地一般可用：云，离线
+    原文：Microsoft Azure Local, 365 Local generally available: the cloud, offline
+    摘要：Microsoft Azure Local ， 365 Local一般可用：云、离线Techzine Global
+    来源：Google News | 相关公司：Microsoft
+
+【21】英伟达挑战者AI芯片初创公司MatX融资$ 5亿
+    原文：Nvidia challenger AI chip startup MatX raised $500M
+    摘要：这家初创公司由前谷歌TPU工程师于2023年创立。
+    来源：TechCrunch | 相关公司：NVIDIA
+
+【22】自动驾驶科技创业公司Wayve从英伟达、优步和三家汽车制造商筹集了12亿美元$
+    原文：Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers
+    摘要：主要的汽车制造商、科技巨头、人工智能公司和芯片制造商都在努力获得Wayve的一部分。
+    来源：TechCrunch | 相关公司：NVIDIA
+
+【23】随着五角大楼升级人工智能纠纷， Anthropic不会让步
+    原文：Anthropic won’t budge as Pentagon escalates AI dispute
+    摘要：五角大楼已允许Anthropic在周五之前放松人工智能护栏或面临潜在的处罚，从而加剧了一场引发...
+    来源：TechCrunch | 相关公司：Anthropic
+
+【24】OpenAI首席运营官表示： “我们还没有真正看到人工智能渗透到企业业务流程中”
+    原文：OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’
+    摘要：有很多关于人工智能代理接管业务流程并声称“SaaS已经死了。“虽然这些预测推动了SaaS……
+    来源：TechCrunch | 相关公司：OpenAI
+
+【25】以色列国防军在2025年大屠杀中近距离杀害加沙援助工作者：报告
+    原文：IDF killed Gaza aid workers at point blank range in 2025 massacre: Report
+    摘要：报告[pdf] ： https://content.forensic-architecture.org/wp-content/uploads...
+    来源：Hacker News
+
+【26】Ladybird在人工智能的帮助下采用Rust
+    原文：Ladybird adopts Rust, with help from AI
+    来源：Hacker News
+
+【27】我们如何在一周内用AI重建Next.js
+    原文：How we rebuilt Next.js with AI in one week
+    来源：Hacker News
+
+【28】Firefox 148推出AI Kill Switch功能和更多增强功能
+    原文：Firefox 148 Launches with AI Kill Switch Feature and More Enhancements
+    来源：Hacker News
+
+【29】Mercury 2 ：扩散驱动的快速推理LLM
+    原文：Mercury 2: Fast reasoning LLM powered by diffusion
+    来源：Hacker News
+
+【30】大阪：关西机场为从未丢失过单件行李而自豪（ 2024年）
+    原文：Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)
+    来源：Hacker News
+
