@@ -1,0 +1,32 @@
+{
+  "database": {
+    "host": "localhost",
+    "database": "hxxmacro",
+    "user": "your_username",
+    "password": "your_password"
+  },
+  "ai": {
+    "api_key": "your_api_key",
+    "base_url": "https://open.bigmodel.cn/api/paas/v4",
+    "model": "GLM-4.5",
+    "temperature": 0.3,
+    "max_retries": 3
+  },
+  "notion": {
+    "api_token": "your_notion_api_token",
+    "databases": {
+      "macro_events": "your_macro_events_db_id",
+      "cross_market_reactions": "your_cross_market_reactions_db_id"
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "dir": "../logs",
+    "sync_dir": "sync",
+    "console": true,
+    "rotation": {
+      "max_bytes": 5242880,
+      "backup_count": 5
+    }
+  }
+}
