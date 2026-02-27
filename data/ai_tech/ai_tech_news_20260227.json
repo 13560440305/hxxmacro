@@ -1,0 +1,430 @@
+{
+  "generated": "2026-02-27T09:06:46.070629",
+  "total": 30,
+  "news": [
+    {
+      "title": "Google API keys weren't secrets, but then Gemini changed the rules",
+      "url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+      "summary": "",
+      "score": 1200,
+      "comments": 287,
+      "hn_link": "https://news.ycombinator.com/item?id=47156925",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [
+        "Google"
+      ],
+      "priority": 2,
+      "title_zh": "Google API密钥不是秘密，但后来Gemini改变了规则",
+      "summary_zh": ""
+    },
+    {
+      "title": "Nano Banana 2: Google's latest AI image generation model",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+      "summary": "",
+      "score": 482,
+      "comments": 464,
+      "hn_link": "https://news.ycombinator.com/item?id=47167858",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [
+        "Google"
+      ],
+      "priority": 2,
+      "title_zh": "Nano Banana 2 ：谷歌最新的人工智能图像生成模型",
+      "summary_zh": ""
+    },
+    {
+      "title": "How will OpenAI compete?",
+      "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+      "summary": "",
+      "score": 459,
+      "comments": 629,
+      "hn_link": "https://news.ycombinator.com/item?id=47158975",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "priority": 2,
+      "title_zh": "OpenAI将如何竞争？",
+      "summary_zh": ""
+    },
+    {
+      "title": "Bringing Nano Banana 2 to enterprise",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFVaRGpWYjBMRXVKd3RUVV9WTmFoSk9FWXRjM3g3UWdYMVdTY3M5RUU1YnZZVXdXcGMyUWdEOVdtc2hTWDFvSDhrVy1VTzdoLXg0OHVxTldzODh4SFhqbUNLN0w3TmZFMGk3b2dEczBpVUcxdC1XREpvNDRQMGdYTUkzdS1KMU5sLUZKMkI0bU1ISmdsTmpWQ0dhcw?oc=5",
+      "summary": "Bringing Nano Banana 2 to enterprise&nbsp;&nbsp;Google Cloud",
+      "published": "Thu, 26 Feb 2026 16:17:58 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "将Nano Banana 2带入企业",
+      "summary_zh": "将Nano Banana 2引入企业Google Cloud"
+    },
+    {
+      "title": "Collective Health Collaborates with Google Cloud to Launch New AI-Powered System",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzemdhaGptQjRnYi1iMWNSV1p0dnBTcDF3ZnNyVWVELWJURFd4Ukp3dnZyMTFkNVpwb2QweUZDblZvUERoUGw4SlZDNDFBalpEeEtmeW1CcnpxV3ZjazhFVGRwMHM3bFhRVEVnRlIzdGZmY1o0?oc=5",
+      "summary": "Collective Health Collaborates with Google Cloud to Launch New AI-Powered System&nbsp;&nbsp;MedCity News",
+      "published": "Thu, 26 Feb 2026 21:29:33 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "Collective Health与Google Cloud合作推出新的人工智能驱动系统",
+      "summary_zh": "Collective Health与Google Cloud合作推出新的人工智能驱动系统MedCity新闻"
+    },
+    {
+      "title": "ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSTFmLVJsTkhXUTFCQlNHS0lnT05wX0hwRkNzcUxCanhEM3dsN090dEQ1eXg0RS01VmdmaDZuSENKd1NqcEVOTEhNTHgtWWFDSWYzdzVXYlhVbGdBc2lKRVd3Q0FJZW5TcDNRNjZaQWE3TllacS1VYi1KWkNvMG1KTk5YRS1XR1FOSi1ucEhIZnpmcGZ3LWNKZFdpTHV5a0wtbm1adHNka3J5RDZubEZvUEZqRUplX1hHNi1LWkNXTjJSbGNqT3F0eFJJOGVna3R2VE1rZnYzZ0VLN1lGQmREMFdlSQ?oc=5",
+      "summary": "ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs&nbsp;&nbsp;PR Newswire",
+      "published": "Thu, 26 Feb 2026 13:00:00 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "ElevenLabs与Google Cloud for Cloud服务和最新的NVIDIA Blackwell GPU合作",
+      "summary_zh": "ElevenLabs与Google Cloud for Cloud Services和最新的NVIDIA Blackwell GPU合作PR Newswire"
+    },
+    {
+      "title": "Deutsche Telekom and Google Cloud Collaborate for Superior Network Experience with Agentic AI",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdG83SHJDblZIUHJ1cE9fQk82c1BrSW0tVGlNQzRwZDZBQzJ0ZWRmb0lpYkRPNjgxcnhTeWdnWVk4Z2NrQ2hQanpmLWxXdDk5SWxqODZwdkUtZW4tblBPd3R6UlVGbzV1WHdqNkhEWGRHcFFfQWwzOTNSTkFQOEVGNld0NVJPY1E3c0xQTUhrXzVvQTZGTTZRNF9vVGt0UQ?oc=5",
+      "summary": "Deutsche Telekom and Google Cloud Collaborate for Superior Network Experience with Agentic AI&nbsp;&nbsp;Telekom",
+      "published": "Wed, 25 Feb 2026 11:00:00 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "德国电信和谷歌云携手Agentic AI打造卓越网络体验",
+      "summary_zh": "德国电信与谷歌云携手Agentic AI Telekom打造卓越网络体验"
+    },
+    {
+      "title": "Aly Pte. Ltd. Launches SpikingAI on Google Cloud Marketplace to Deliver Insights on Institutional Money Flows Across Singapore and Southeast Asia",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTEZHNWZHbjNsZUNzSnZtb1FJT0ZrTXphZkd4WHoyQkdlcllXWno4MTNpT3ZRemFncTdVNEJIMFh0SFNhTERPRFpERzNDa2FleENZNnJXRy1VY0Y5S1E0NXFHU3E1TTdlSHAxYlRaS1d6akpBcEVNNUdTTkZwdUc5ZEpiaE8zNG96aDhBOWtvQjkxam43OWhjaTZCNnRRaF8xWEVWLWNVLVdYSW43VUgxMFVDX2F6UlE3UXhBU21RdktyaDB1UHZkRF9ZMDk2a3Zzd2pyTHFDSzQydlozN0hDTFRXMmIxdFE5a3JOUjVtZWVkeTdCbHhCclVLU0hpVFFQeWlLSFJMUjlEU24xZk9mSDdnV1ljSnV6?oc=5",
+      "summary": "Aly Pte. Ltd. Launches SpikingAI on Google Cloud Marketplace to Deliver Insights on Institutional Money Flows Across Singapore and Southeast...",
+      "published": "Thu, 26 Feb 2026 13:00:00 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "Aly Pte. Ltd.在Google Cloud Marketplace上推出SpikingAI ，以深入了解新加坡和东南亚的机构资金流动情况",
+      "summary_zh": "Aly Pte. Ltd.在Google Cloud Marketplace上推出SpikingAI ，以深入了解新加坡和东南部的机构资金流动情况..."
+    },
+    {
+      "title": "Google’s Cloud AI chief on the three frontiers of model capability",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmlZcnZpbVFJSk1VSzJIX3lMS0YtOV9mODd1RGd6N0gwaXJqdlZ5el9mbDNUSVhzbXpadUZ5VW1VaHBIUVhTV3ZNUXNBLUpKNmp5cHBqc25YYTlwUG51R0RFZWF5TDhpLVRneVpfSU5tcWNieFhxQ2JkX0QzTE5CUWEtUEdKTWFkbVpRbEJJZFZUOGlURjUzYWZ1LW9QejVY?oc=5",
+      "summary": "Google’s Cloud AI chief on the three frontiers of model capability&nbsp;&nbsp;TechCrunch",
+      "published": "Mon, 23 Feb 2026 19:18:42 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "谷歌的云人工智能主管在模型能力的三个前沿",
+      "summary_zh": "谷歌云人工智能主管在模型功能的三个前沿TechCrunch"
+    },
+    {
+      "title": "Giles AI case study",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVOV9HWERVak1kclVOMXpIalZJYjBHOVhKVlBIVGJpOFB1LVlzX2Q1ekMzWlZacy0weWFRaWNreGRhTWI4ODNMemRjdGVqR1pBdmc?oc=5",
+      "summary": "Giles AI case study&nbsp;&nbsp;Google Cloud",
+      "published": "Thu, 26 Feb 2026 22:31:10 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "Giles AI案例研究",
+      "summary_zh": "Giles AI案例研究Google Cloud"
+    },
+    {
+      "title": "AI Push Provides a Boost to GOOGL's Cloud Business: More Upside Ahead?",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVkRGQWx4MUhzUFNqSlEtdjV0dWtnNFAzZ053OE9SaGZzWVZkSEpQZzRXdGxQOHRob3htajlTMjFKVHlfcUVMUDNrZVFadVZ5bkJ1VC1MMXpUaXY2STR3emtSSnkxR21WX1U5QXdXbHkxQjlHbVBKYl9pUy11Sk9qaEFTSmlMbFdNTmpiTi02dW5fd2piTTlqSHQxUk94N3Q5cEpZM2xIbmNSWWwtejZ5c20xUFZCb3ZJalZRdXJjWml6VUtHYXZmbnVnS2ZWc1oxbDF5UTRSSjRnajRadHhPSHhGQTRUZw?oc=5",
+      "summary": "AI Push Provides a Boost to GOOGL's Cloud Business: More Upside Ahead?&nbsp;&nbsp;The Globe and Mail",
+      "published": "Thu, 26 Feb 2026 18:14:27 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "AI Push为GOOGL的云业务提供了推动力：前方还有更多优势吗？",
+      "summary_zh": "AI Push为GOOGL的云业务提供了推动力：前方还有更多优势吗？环球邮报"
+    },
+    {
+      "title": "Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdVJuT2pfRlVwZTBQVUpDQUlnT1RjLUhhQ0cwVVU4R2JMZlhrLVl0bmZnTVFNdndrYmFsbklLWFpOajA5dENfaUhSY3NSc2FBUl92MkRzR0FaRG01WHREVFdHekZES3czcFdEREl6T21jNlExQlZTVElmS284QlMzZFVWdUxROUNQQU5OYmp2dHZveGNXclAyM0pZeVhZQ0lqUzV0T3dzczFpRFVMVEhoUTRqVmdoSVlpREh1SUcyeGFvM1d6cFloTDFTQTdmUGVmZE0wbjFyekt6M2JyZ2ZHOFRIM00yZHo4NEdUeHlEeGpMTFN2U1RLMFV1azBWejg5YU5iSkpDUkg2SlZwSXdZ?oc=5",
+      "summary": "Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely...",
+      "published": "Tue, 24 Feb 2026 15:45:38 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "Microsoft Sovereign Cloud增加了对大型AI模型的治理、生产力和支持，即使在完全断开连接的情况下也能安全运行",
+      "summary_zh": "Microsoft Sovereign Cloud增加了对大型AI模型的治理、生产力和支持，即使在完全..."
+    },
+    {
+      "title": "MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWW4xMUFzeE5uREF5X1NadGV5QW5TVFNuWDdDS1dyMUVyeFJnRmhYM2pzbjBTWFZscXBHQWY5WWRsMHkzWTNFUlZPT0VIX19XRERTb3VhZkdCT24zSnJpQjZtUHpRU1drbm8zVlBhdThXcFc2T2U1SU9IQTNuNWVscHpjUFNQRmc5RjM2VWxkbF90ZlYtaWJORnpKVEc3b1ZqdjFnM2xVQ2l6Um95OWh1Qlo3M3ROTHB5ZXJweFNMZDZtTFByYjBZbmdnTzB6R1Q3RGRUTlBvVTFHNkY0RjZjWjl0anJsa0FiNmlkX1UyWVlCNjhMZExr?oc=5",
+      "summary": "MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs&nbsp;&nbsp;Microsoft",
+      "published": "Tue, 24 Feb 2026 17:00:00 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "MWC 2026 ：微软帮助电信实现AI ROI -微软行业博客",
+      "summary_zh": "MWC 2026 ：微软帮助电信实现AI ROI -微软行业博客微软"
+    },
+    {
+      "title": "Maia 200: The AI accelerator built for inference",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
+      "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog",
+      "published": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "MAIA 200 ：为推理而构建的人工智能加速器",
+      "summary_zh": "MAIA 200 ：为推理而构建的人工智能加速器微软官方博客"
+    },
+    {
+      "title": "PostgreSQL on Azure supercharged for AI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDhFRUhLTV94T1hLLWFEVjRNRTVreVlTbTVrYWZ0QU5TaHFKN3lZSkc5RDVqY3NqWC1DTUdERE9XQ1dYcm1FaG94U0JCMUluQXNacWhhM0lvUURCenI4Z1FGejZLbzN3cWdSSllCTE5hTzc1RXVIUkJxX0NTM25tdHliZ1lIdw?oc=5",
+      "summary": "PostgreSQL on Azure supercharged for AI&nbsp;&nbsp;Microsoft Azure",
+      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "Azure上的PostgreSQL为AI增压",
+      "summary_zh": "PostgreSQL on Azure为AI Microsoft Azure增压"
+    },
+    {
+      "title": "The AI Utility: Microsoft’s Dominance in the 2026 Infrastructure Boom",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZGlveEdkVUFqRExYMmpFTDBsYnQ2eS15ZS1scFpmZzRMT2h2QWZMYkF0enRhaXBvMmt6R3pocWNteEFxdUJrX3pOWUxFZF9pNHJkcGRhemRqYXBTR0tnOGc5bDhvc2xoNTRCSC1nZ1NkMHptTEZkZm5pbDluaEpnaUJkSXlJU2JrRWlVWlUya1l5cVRqTHRiaFhjblN5UE4wckFBOV9yY2dpcUhhRWY2Q2JUWC01eldVc1k2UEIzdTJKR1k0Sjl3cFBrM2RISGE0aTFnWQ?oc=5",
+      "summary": "The AI Utility: Microsoft’s Dominance in the 2026 Infrastructure Boom&nbsp;&nbsp;FinancialContent",
+      "published": "Thu, 26 Feb 2026 16:00:00 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "人工智能实用程序：微软在2026年基础设施热潮中的主导地位",
+      "summary_zh": "人工智能实用程序：微软在2026年基础设施繁荣金融内容中的主导地位"
+    },
+    {
+      "title": "PwC modernizes across 136 countries via Microsoft 365 with Copilot, saves $150M",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWFZiNFNrWVBSb0FBZHI4a09WX3VqT0dLZDdJamlaYm5IUW1sbEpSalBmV0xvbmRvRDlWOUtmekU4a1NoYVE3VVNqMzMxZGhadkczUnF3MHZZOFFtdllkdVFQeER2X25aTUMwRUI2YmpNTVFYSndKUERjLUNia3dIemRGQWtBQQ?oc=5",
+      "summary": "PwC modernizes across 136 countries via Microsoft 365 with Copilot, saves $150M&nbsp;&nbsp;Microsoft",
+      "published": "Wed, 25 Feb 2026 22:06:24 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "普华永道通过Microsoft 365与Copilot在136个国家实现现代化，节省$ 1.5亿",
+      "summary_zh": "普华永道通过微软365与Copilot在136个国家实现现代化，为微软节省1.5亿美元$"
+    },
+    {
+      "title": "Microsoft expands Sovereign Cloud security with governance, local productivity and AI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjRJTEZ0eFlYMzlBNzBmSXd6b0oxbkgtNFE2WUZya21SZUpaamFZNFZTU1BWbGYzRmt1U2ItYkVBdU1ZR2RULWY1N2o3bzBJMXdNTENLSjU4Umx5b0x5Q2EwY25JZ3FZam4yOVpEX3VNQlE1WGdEUlU4ZElvcHVJLUpGaGI0NkNpQ19CbmtuQkFOMnkxQ21CRg?oc=5",
+      "summary": "Microsoft expands Sovereign Cloud security with governance, local productivity and AI&nbsp;&nbsp;Help Net Security",
+      "published": "Tue, 24 Feb 2026 13:19:21 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "微软通过治理、本地生产力和人工智能扩展Sovereign Cloud安全性",
+      "summary_zh": "微软通过治理、本地生产力和人工智能帮助网络安全来扩展Sovereign Cloud的安全性"
+    },
+    {
+      "title": "Microsoft Gaming Shakeup Highlights AI Ambitions And Rising Regulatory Questions",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeTRVelVoRWJxSVNndkI5bHpaTTlPd0ZWdTl6WTJzLWRTM1I0a3FVY0Zvd01uRGVhU085MTFIaU13OVZGWWFrYndkcFdWNi12c1hrQkhtZngyenpyWmc2cGNZNEZ6OFFYN3hzYWdCRWdvYlp5S3JCSzN0cWJXc0xJSFpTWkhsMVdoUllkNGFGZ0dBNHRadmJNZFBYa1pOWmJvUXMxMndoeUxBd2ppcW9yNVpJYlJXc1FFYXNOZng2U0R2QnI4Q3fSAcsBQVVfeXFMTkJkZG96cjJMa0tPUGhkcmNZWW9KN1huOFU5bWpNQ2tCMXpZZ3IxYzI4YTBnbUlTeUZiVE5hWVRvMnhRV3BWeUxIdWNNN0FSTm1yd18tbkxhOXpjV1RuT2JwRVAtRUdVXzVGRkdfaGRvT2FobXlSYzViMlVpOExyczFJUFNvRHc2TlpnNGRBVmtsSy1FX3VLcS15TDdtMkwzYnFIaXRYT1BLVjRqZDNaNjZQdU9leXUtUjE4OF9qMVg2VEdEV2pQUWJiMDA?oc=5",
+      "summary": "Microsoft Gaming Shakeup Highlights AI Ambitions And Rising Regulatory Questions&nbsp;&nbsp;simplywall.st",
+      "published": "Thu, 26 Feb 2026 05:38:52 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "微软游戏重组凸显人工智能的雄心壮志和不断上升的监管问题",
+      "summary_zh": "微软游戏重组凸显了人工智能的雄心壮志和不断上升的监管问题simplywall.st"
+    },
+    {
+      "title": "Google paid startup Form Energy $1B for its massive 100-hour battery",
+      "url": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
+      "summary": "The deal paves the way for Form Energy to raise a new funding round before potentially going public next year.",
+      "published": "Thu, 26 Feb 2026 21:04:23 +0000",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "source": "TechCrunch",
+      "title_zh": "谷歌为其巨大的100小时电池支付了10亿美元的初创公司Form Energy $",
+      "summary_zh": "这笔交易为Form Energy在明年可能上市之前筹集新一轮融资铺平了道路。"
+    },
+    {
+      "title": "So, we’re getting Prada Meta AI glasses, right?",
+      "url": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+      "summary": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+      "published": "Thu, 26 Feb 2026 20:11:55 +0000",
+      "companies": [
+        "Meta"
+      ],
+      "is_ai": true,
+      "source": "TechCrunch",
+      "title_zh": "所以，我们要买Prada Meta AI眼镜，对吧？",
+      "summary_zh": "马克·扎克伯格（ Mark Zuckerberg ）参加了普拉达（ Prada ）在米兰举办的时装周活动，让每个人都想知道我们是否会以普拉达（ Prada ）品牌推出Meta AI眼镜。"
+    },
+    {
+      "title": "Never buy a .online domain",
+      "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+      "summary": "",
+      "score": 762,
+      "comments": 475,
+      "hn_link": "https://news.ycombinator.com/item?id=47151233",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "永远不要购买.online域名",
+      "summary_zh": ""
+    },
+    {
+      "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+      "url": "",
+      "summary": "Hi HN,I recently noticed that an YC company (Run ANywhere, W26) sent me the following email:From: Aditya &lt;aditya@buildrunanywhere.org&gt;Subject:...",
+      "score": 589,
+      "comments": 221,
+      "hn_link": "https://news.ycombinator.com/item?id=47163885",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "告诉HN ： YC公司抓取GitHub活动，向用户发送垃圾邮件",
+      "summary_zh": "HN ，您好！我最近注意到一家YC公司（ Run Aywhere ， W26 ）向我发送了以下电子邮件：发件人： Aditya &lt; aditya@buildrunanywhere.org &gt;主题：..."
+    },
+    {
+      "title": "Large-Scale Online Deanonymization with LLMs",
+      "url": "https://simonlermen.substack.com/p/large-scale-online-deanonymization",
+      "summary": "Pdf: https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2602.16800 (via https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.16800)",
+      "score": 339,
+      "comments": 234,
+      "hn_link": "https://news.ycombinator.com/item?id=47139716",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "LLM的大规模在线去匿名化",
+      "summary_zh": "PDF ： https://arxiv.org/pdf/2602.16800 （通过https://arxiv.org/abs/2602.16800 ）"
+    },
+    {
+      "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+      "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+      "summary": "",
+      "score": 315,
+      "comments": 157,
+      "hn_link": "https://news.ycombinator.com/item?id=47167763",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "AirSnitch ：揭秘并打破Wi-Fi网络中的客户端隔离[pdf]",
+      "summary_zh": ""
+    },
+    {
+      "title": "LLM=True",
+      "url": "https://blog.codemine.be/posts/2026/20260222-be-quiet/",
+      "summary": "",
+      "score": 255,
+      "comments": 144,
+      "hn_link": "https://news.ycombinator.com/item?id=47149151",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "LLM =正确",
+      "summary_zh": ""
+    },
+    {
+      "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
+      "url": "https://simonbergerart.com",
+      "summary": "",
+      "score": 248,
+      "comments": 104,
+      "hn_link": "https://news.ycombinator.com/item?id=47112299",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "用锤子在玻璃上“画”肖像的艺术家",
+      "summary_zh": ""
+    },
+    {
+      "title": "What Claude Code Chooses",
+      "url": "https://amplifying.ai/research/claude-code-picks",
+      "summary": "",
+      "score": 219,
+      "comments": 96,
+      "hn_link": "https://news.ycombinator.com/item?id=47169757",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "Claude Code的选择",
+      "summary_zh": ""
+    },
+    {
+      "title": "Show HN: A real-time strategy game that AI agents can play",
+      "url": "https://llmskirmish.com/",
+      "summary": "I&#x27;ve liked all the projects that put LLMs into game environments. It&#x27;s been a weird juxtaposition, though: frontier LLMs can one-shot full...",
+      "score": 213,
+      "comments": 77,
+      "hn_link": "https://news.ycombinator.com/item?id=47149586",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "Show HN ： AI智能体可以玩的实时策略游戏",
+      "summary_zh": "我喜欢将LLM带入游戏环境的所有项目。不过，这是一个奇怪的并置：前沿LLM可以一次性完整..."
+    },
+    {
+      "title": "Open Source Endowment – new funding source for open source maintainers",
+      "url": "https://endowment.dev/",
+      "summary": "",
+      "score": 208,
+      "comments": 125,
+      "hn_link": "https://news.ycombinator.com/item?id=47168012",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "开源捐赠基金–为开源维护者提供新的资金来源",
+      "summary_zh": ""
+    }
+  ]
+}

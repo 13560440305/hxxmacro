@@ -1,115 +1,114 @@
-AI 与科技新闻简报 (英文版) | 2026-02-25
+AI 与科技新闻简报 (英文版) | 2026-02-27
 ==================================================
 
-【1】OpenAI, the US government and Persona built an identity surveillance machine
-    摘要：Related ongoing thread: Discord cuts ties with identity verification software, Persona - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47136036...
+【1】Google API keys weren't secrets, but then Gemini changed the rules
+    来源：Hacker News | 相关公司：Google
+
+【2】Nano Banana 2: Google's latest AI image generation model
+    来源：Hacker News | 相关公司：Google
+
+【3】How will OpenAI compete?
     来源：Hacker News | 相关公司：OpenAI
 
-【2】IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight
-    来源：Hacker News | 相关公司：Meta
-
-【3】OpenAI resets spending expectations, from $1.4T to $600B
-    来源：Hacker News | 相关公司：OpenAI
-
-【4】US Military leaders meet with Anthropic to argue against Claude safeguards
-    来源：Hacker News | 相关公司：Anthropic
-
-【5】Anthropic at Google Cloud Next 2026
-    摘要：Anthropic at Google Cloud Next 2026&nbsp;&nbsp;Anthropic
+【4】Bringing Nano Banana 2 to enterprise
+    摘要：Bringing Nano Banana 2 to enterprise&nbsp;&nbsp;Google Cloud
     来源：Google News | 相关公司：Google
 
-【6】Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality
-    摘要：Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality&nbsp;&nbsp;Telekom
+【5】Collective Health Collaborates with Google Cloud to Launch New AI-Powered System
+    摘要：Collective Health Collaborates with Google Cloud to Launch New AI-Powered System&nbsp;&nbsp;MedCity News
     来源：Google News | 相关公司：Google
 
-【7】Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’
-    摘要：Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’&nbsp;&nbsp;Industrial Cyber
+【6】ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs
+    摘要：ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs&nbsp;&nbsp;PR Newswire
     来源：Google News | 相关公司：Google
 
-【8】Google could reportedly invest $100M in AI cloud operator Fluidstack
-    摘要：Google could reportedly invest $100M in AI cloud operator Fluidstack&nbsp;&nbsp;SiliconANGLE
+【7】Deutsche Telekom and Google Cloud Collaborate for Superior Network Experience with Agentic AI
+    摘要：Deutsche Telekom and Google Cloud Collaborate for Superior Network Experience with Agentic AI&nbsp;&nbsp;Telekom
     来源：Google News | 相关公司：Google
 
-【9】Google Cloud Security: Protecting the Cloud from AI Threats
-    摘要：Google Cloud Security: Protecting the Cloud from AI Threats&nbsp;&nbsp;Cyber Magazine
+【8】Aly Pte. Ltd. Launches SpikingAI on Google Cloud Marketplace to Deliver Insights on Institutional Money Flows Across Singapore and Southeast Asia
+    摘要：Aly Pte. Ltd. Launches SpikingAI on Google Cloud Marketplace to Deliver Insights on Institutional Money Flows Across Singapore and Southeast...
     来源：Google News | 相关公司：Google
 
-【10】Google’s Cloud AI leads on the three frontiers of model capability
-    摘要：Google’s Cloud AI leads on the three frontiers of model capability&nbsp;&nbsp;TechCrunch
+【9】Google’s Cloud AI chief on the three frontiers of model capability
+    摘要：Google’s Cloud AI chief on the three frontiers of model capability&nbsp;&nbsp;TechCrunch
     来源：Google News | 相关公司：Google
 
-【11】Google Cloud and Unilever Map the Future of AI-Powered Business
-    摘要：Google Cloud and Unilever Map the Future of AI-Powered Business&nbsp;&nbsp;Cloud Wars
+【10】Giles AI case study
+    摘要：Giles AI case study&nbsp;&nbsp;Google Cloud
     来源：Google News | 相关公司：Google
 
-【12】Gemini 3.1 Pro on Gemini CLI, Gemini Enterprise, and Vertex AI
-    摘要：Gemini 3.1 Pro on Gemini CLI, Gemini Enterprise, and Vertex AI&nbsp;&nbsp;Google Cloud
+【11】AI Push Provides a Boost to GOOGL's Cloud Business: More Upside Ahead?
+    摘要：AI Push Provides a Boost to GOOGL's Cloud Business: More Upside Ahead?&nbsp;&nbsp;The Globe and Mail
     来源：Google News | 相关公司：Google
 
-【13】Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected
+【12】Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected
     摘要：Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely...
     来源：Google News | 相关公司：Microsoft
 
-【14】203 Billion Reasons Why Microsoft Is a Buy in 2026
-    摘要：203 Billion Reasons Why Microsoft Is a Buy in 2026&nbsp;&nbsp;The Motley Fool
-    来源：Google News | 相关公司：Microsoft
-
-【15】Maia 200: The AI accelerator built for inference
-    摘要：Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog
-    来源：Google News | 相关公司：Microsoft
-
-【16】PostgreSQL on Azure supercharged for AI
-    摘要：PostgreSQL on Azure supercharged for AI&nbsp;&nbsp;Microsoft Azure
-    来源：Google News | 相关公司：Microsoft
-
-【17】G‑STAR transforms workplace support with an AI assistant integrated in Microsoft Teams
-    摘要：G‑STAR transforms workplace support with an AI assistant integrated in Microsoft Teams&nbsp;&nbsp;Microsoft
-    来源：Google News | 相关公司：Microsoft
-
-【18】MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs
+【13】MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs
     摘要：MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs&nbsp;&nbsp;Microsoft
     来源：Google News | 相关公司：Microsoft
 
-【19】Microsoft expands Sovereign Cloud security with governance, local productivity and AI
+【14】Maia 200: The AI accelerator built for inference
+    摘要：Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog
+    来源：Google News | 相关公司：Microsoft
+
+【15】PostgreSQL on Azure supercharged for AI
+    摘要：PostgreSQL on Azure supercharged for AI&nbsp;&nbsp;Microsoft Azure
+    来源：Google News | 相关公司：Microsoft
+
+【16】The AI Utility: Microsoft’s Dominance in the 2026 Infrastructure Boom
+    摘要：The AI Utility: Microsoft’s Dominance in the 2026 Infrastructure Boom&nbsp;&nbsp;FinancialContent
+    来源：Google News | 相关公司：Microsoft
+
+【17】PwC modernizes across 136 countries via Microsoft 365 with Copilot, saves $150M
+    摘要：PwC modernizes across 136 countries via Microsoft 365 with Copilot, saves $150M&nbsp;&nbsp;Microsoft
+    来源：Google News | 相关公司：Microsoft
+
+【18】Microsoft expands Sovereign Cloud security with governance, local productivity and AI
     摘要：Microsoft expands Sovereign Cloud security with governance, local productivity and AI&nbsp;&nbsp;Help Net Security
     来源：Google News | 相关公司：Microsoft
 
-【20】Microsoft Azure Local, 365 Local generally available: the cloud, offline
-    摘要：Microsoft Azure Local, 365 Local generally available: the cloud, offline&nbsp;&nbsp;Techzine Global
+【19】Microsoft Gaming Shakeup Highlights AI Ambitions And Rising Regulatory Questions
+    摘要：Microsoft Gaming Shakeup Highlights AI Ambitions And Rising Regulatory Questions&nbsp;&nbsp;simplywall.st
     来源：Google News | 相关公司：Microsoft
 
-【21】Nvidia challenger AI chip startup MatX raised $500M
-    摘要：The startup was founded by former Google TPU engineers in 2023.
-    来源：TechCrunch | 相关公司：NVIDIA
+【20】Google paid startup Form Energy $1B for its massive 100-hour battery
+    摘要：The deal paves the way for Form Energy to raise a new funding round before potentially going public next year.
+    来源：TechCrunch | 相关公司：Google
 
-【22】Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers
-    摘要：Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.
-    来源：TechCrunch | 相关公司：NVIDIA
+【21】So, we’re getting Prada Meta AI glasses, right?
+    摘要：Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.
+    来源：TechCrunch | 相关公司：Meta
 
-【23】Anthropic won’t budge as Pentagon escalates AI dispute
-    摘要：The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises...
-    来源：TechCrunch | 相关公司：Anthropic
-
-【24】OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’
-    摘要：There is a lot of talk around AI agents taking over business processes and claiming that "SaaS is dead." While these predictions have moved SaaS...
-    来源：TechCrunch | 相关公司：OpenAI
-
-【25】IDF killed Gaza aid workers at point blank range in 2025 massacre: Report
-    摘要：Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...
+【22】Never buy a .online domain
     来源：Hacker News
 
-【26】Ladybird adopts Rust, with help from AI
+【23】Tell HN: YC companies scrape GitHub activity, send spam emails to users
+    摘要：Hi HN,I recently noticed that an YC company (Run ANywhere, W26) sent me the following email:From: Aditya &lt;aditya@buildrunanywhere.org&gt;Subject:...
     来源：Hacker News
 
-【27】How we rebuilt Next.js with AI in one week
+【24】Large-Scale Online Deanonymization with LLMs
+    摘要：Pdf: https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2602.16800 (via https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.16800)
     来源：Hacker News
 
-【28】Firefox 148 Launches with AI Kill Switch Feature and More Enhancements
+【25】AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
     来源：Hacker News
 
-【29】Mercury 2: Fast reasoning LLM powered by diffusion
+【26】LLM=True
     来源：Hacker News
 
-【30】Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)
+【27】Artist who “paints” portraits on glass by hitting it with a hammer
+    来源：Hacker News
+
+【28】What Claude Code Chooses
+    来源：Hacker News
+
+【29】Show HN: A real-time strategy game that AI agents can play
+    摘要：I&#x27;ve liked all the projects that put LLMs into game environments. It&#x27;s been a weird juxtaposition, though: frontier LLMs can one-shot full...
+    来源：Hacker News
+
+【30】Open Source Endowment – new funding source for open source maintainers
     来源：Hacker News
 

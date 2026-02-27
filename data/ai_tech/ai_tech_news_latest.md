@@ -1,57 +1,67 @@
 # 🤖 AI 与科技新闻简报 (英文版)
-> 日期：2026-02-25 | 更新时间：21:04 UTC | 共 30 条
+> 日期：2026-02-27 | 更新时间：09:06 UTC | 共 30 条
 
 ---
 
 ## 📰 AI 前沿动态
 
-### 1. OpenAI, the US government and Persona built an identity surveillance machine
+### 1. Google API keys weren't secrets, but then Gemini changed the rules
 
-**摘要**：Related ongoing thread: Discord cuts ties with identity verification software, Persona - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47136036...
+**来源**：Hacker News | 热度：1200
 
-**来源**：Hacker News | 热度：591
-
-🔗 [阅读原文](https://vmfunc.re/blog/persona/) | [HN讨论](https://news.ycombinator.com/item?id=47140632)
+🔗 [阅读原文](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules) | [HN讨论](https://news.ycombinator.com/item?id=47156925)
 
 ---
 
-### 2. IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight
+### 2. Nano Banana 2: Google's latest AI image generation model
 
-**来源**：Hacker News | 热度：213
+**来源**：Hacker News | 热度：482
 
-🔗 [阅读原文](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html) | [HN讨论](https://news.ycombinator.com/item?id=47136537)
-
----
-
-### 3. OpenAI resets spending expectations, from $1.4T to $600B
-
-**来源**：Hacker News | 热度：209
-
-🔗 [阅读原文](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html) | [HN讨论](https://news.ycombinator.com/item?id=47140623)
+🔗 [阅读原文](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/) | [HN讨论](https://news.ycombinator.com/item?id=47167858)
 
 ---
 
-### 4. US Military leaders meet with Anthropic to argue against Claude safeguards
+### 3. How will OpenAI compete?
 
-**来源**：Hacker News | 热度：168
+**来源**：Hacker News | 热度：459
 
-🔗 [阅读原文](https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai) | [HN讨论](https://news.ycombinator.com/item?id=47145551)
+🔗 [阅读原文](https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x) | [HN讨论](https://news.ycombinator.com/item?id=47158975)
 
 ---
 
-### 5. Anthropic at Google Cloud Next 2026
+### 4. Bringing Nano Banana 2 to enterprise
 
-**摘要**：Anthropic at Google Cloud Next 2026&nbsp;&nbsp;Anthropic
+**摘要**：Bringing Nano Banana 2 to enterprise&nbsp;&nbsp;Google Cloud
 
 **来源**：Google News
 
-🔗 [阅读原文](https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQ09mbjY3OU9PRkpqWlBMODZTeXY0VjdZTTBGVDJVRFRtTlJFX3RHWkxjQWV3ZDJ2ZkV4SDVONVJrZTJILU4tVHFNSV9PZHdRaVYzZy1ubnkteF9CV3B1c1hKZDlIRml5Mi02VmRibzBaSVZGRXU4?oc=5)
+🔗 [阅读原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFVaRGpWYjBMRXVKd3RUVV9WTmFoSk9FWXRjM3g3UWdYMVdTY3M5RUU1YnZZVXdXcGMyUWdEOVdtc2hTWDFvSDhrVy1VTzdoLXg0OHVxTldzODh4SFhqbUNLN0w3TmZFMGk3b2dEczBpVUcxdC1XREpvNDRQMGdYTUkzdS1KMU5sLUZKMkI0bU1ISmdsTmpWQ0dhcw?oc=5)
 
 ---
 
-### 6. Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality
+### 5. Collective Health Collaborates with Google Cloud to Launch New AI-Powered System
 
-**摘要**：Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality&nbsp;&nbsp;Telekom
+**摘要**：Collective Health Collaborates with Google Cloud to Launch New AI-Powered System&nbsp;&nbsp;MedCity News
+
+**来源**：Google News
+
+🔗 [阅读原文](https://news.google.com/rss/articles/CBMidEFVX3lxTFBzemdhaGptQjRnYi1iMWNSV1p0dnBTcDF3ZnNyVWVELWJURFd4Ukp3dnZyMTFkNVpwb2QweUZDblZvUERoUGw4SlZDNDFBalpEeEtmeW1CcnpxV3ZjazhFVGRwMHM3bFhRVEVnRlIzdGZmY1o0?oc=5)
+
+---
+
+### 6. ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs
+
+**摘要**：ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs&nbsp;&nbsp;PR Newswire
+
+**来源**：Google News
+
+🔗 [阅读原文](https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSTFmLVJsTkhXUTFCQlNHS0lnT05wX0hwRkNzcUxCanhEM3dsN090dEQ1eXg0RS01VmdmaDZuSENKd1NqcEVOTEhNTHgtWWFDSWYzdzVXYlhVbGdBc2lKRVd3Q0FJZW5TcDNRNjZaQWE3TllacS1VYi1KWkNvMG1KTk5YRS1XR1FOSi1ucEhIZnpmcGZ3LWNKZFdpTHV5a0wtbm1adHNka3J5RDZubEZvUEZqRUplX1hHNi1LWkNXTjJSbGNqT3F0eFJJOGVna3R2VE1rZnYzZ0VLN1lGQmREMFdlSQ?oc=5)
+
+---
+
+### 7. Deutsche Telekom and Google Cloud Collaborate for Superior Network Experience with Agentic AI
+
+**摘要**：Deutsche Telekom and Google Cloud Collaborate for Superior Network Experience with Agentic AI&nbsp;&nbsp;Telekom
 
 **来源**：Google News
 
@@ -59,39 +69,19 @@
 
 ---
 
-### 7. Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’
+### 8. Aly Pte. Ltd. Launches SpikingAI on Google Cloud Marketplace to Deliver Insights on Institutional Money Flows Across Singapore and Southeast Asia
 
-**摘要**：Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’&nbsp;&nbsp;Industrial Cyber
-
-**来源**：Google News
-
-🔗 [阅读原文](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaHhjRFA0RDdfWkFVUUlxZkE5S3hJNWc5aWYxNmkwVThQVmJVN2h1ZlhoQmxCbE5QQTM0UXBiaXBrRU42d3hraC1rWndwOFJKLXdscUhzVmFfUXRYU015bURjT0dEd0JvMDN4YlFfN3FmSGhncmV1ckQwZUhqbDlYeEI5UHo5TEk3akZHUTNSbkE2OXZsSFBkbUdJTXBqdERLVVVIeWh1cDR5TE5BTDhFWGJxR3k0c3VDT2wtZVIxYzF4LWtjeDhJb2VVaUVnZnlLQmVOOVVQY2NPMmIzMTRPMQ?oc=5)
-
----
-
-### 8. Google could reportedly invest $100M in AI cloud operator Fluidstack
-
-**摘要**：Google could reportedly invest $100M in AI cloud operator Fluidstack&nbsp;&nbsp;SiliconANGLE
+**摘要**：Aly Pte. Ltd. Launches SpikingAI on Google Cloud Marketplace to Deliver Insights on Institutional Money Flows Across Singapore and Southeast...
 
 **来源**：Google News
 
-🔗 [阅读原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1pvX0YzMGdRaEh6aUhZZEhqd21PVnBJM3prWnc1ME9sc0w0dG5USFBLR2ItZk1HR010RHhWRm93MzNqN1NCZUhjNHpoVnVjcmJLUnpkLUV5akM1NFU2MElja1VfUi1OYzBwbTNPMkJzc0NrUGNXZDgxcW5IdXNvckN0STZBQTBlWnVjTjhQMnVnWE9jdG0wanRNcw?oc=5)
+🔗 [阅读原文](https://news.google.com/rss/articles/CBMimAJBVV95cUxOTEZHNWZHbjNsZUNzSnZtb1FJT0ZrTXphZkd4WHoyQkdlcllXWno4MTNpT3ZRemFncTdVNEJIMFh0SFNhTERPRFpERzNDa2FleENZNnJXRy1VY0Y5S1E0NXFHU3E1TTdlSHAxYlRaS1d6akpBcEVNNUdTTkZwdUc5ZEpiaE8zNG96aDhBOWtvQjkxam43OWhjaTZCNnRRaF8xWEVWLWNVLVdYSW43VUgxMFVDX2F6UlE3UXhBU21RdktyaDB1UHZkRF9ZMDk2a3Zzd2pyTHFDSzQydlozN0hDTFRXMmIxdFE5a3JOUjVtZWVkeTdCbHhCclVLU0hpVFFQeWlLSFJMUjlEU24xZk9mSDdnV1ljSnV6?oc=5)
 
 ---
 
-### 9. Google Cloud Security: Protecting the Cloud from AI Threats
+### 9. Google’s Cloud AI chief on the three frontiers of model capability
 
-**摘要**：Google Cloud Security: Protecting the Cloud from AI Threats&nbsp;&nbsp;Cyber Magazine
-
-**来源**：Google News
-
-🔗 [阅读原文](https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2tIcDJBWVR0SnRKSUQ4Nk1hNE5Pa2JxNktoSmVUNEFYVTFpblRXVkpsbmJEMjZLOFdyRUliQnNxdTZtUUJqQ3dTVGkwbUhnRE91TktpaFBPa2NvUkZnUDdqVFNoemxUd1BWOF9rS2dhWkY5Wkh3MFBLUmlDSmx3MFdHLXgzVEZuMGxPRlBPVHFDM1k?oc=5)
-
----
-
-### 10. Google’s Cloud AI leads on the three frontiers of model capability
-
-**摘要**：Google’s Cloud AI leads on the three frontiers of model capability&nbsp;&nbsp;TechCrunch
+**摘要**：Google’s Cloud AI chief on the three frontiers of model capability&nbsp;&nbsp;TechCrunch
 
 **来源**：Google News
 
@@ -99,41 +89,47 @@
 
 ---
 
+### 10. Giles AI case study
+
+**摘要**：Giles AI case study&nbsp;&nbsp;Google Cloud
+
+**来源**：Google News
+
+🔗 [阅读原文](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVOV9HWERVak1kclVOMXpIalZJYjBHOVhKVlBIVGJpOFB1LVlzX2Q1ekMzWlZacy0weWFRaWNreGRhTWI4ODNMemRjdGVqR1pBdmc?oc=5)
+
+---
+
 ## 🏢 科技巨头动态
 
-### 1. Anthropic at Google Cloud Next 2026
+### 1. Google API keys weren't secrets, but then Gemini changed the rules
 
 **公司**：Google
 
-**摘要**：Anthropic at Google Cloud Next 2026&nbsp;&nbsp;Anthropic
+**来源**：Hacker News
 
-**来源**：Google News
-
-🔗 [阅读原文](https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQ09mbjY3OU9PRkpqWlBMODZTeXY0VjdZTTBGVDJVRFRtTlJFX3RHWkxjQWV3ZDJ2ZkV4SDVONVJrZTJILU4tVHFNSV9PZHdRaVYzZy1ubnkteF9CV3B1c1hKZDlIRml5Mi02VmRibzBaSVZGRXU4?oc=5)
+🔗 [阅读原文](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
 
 ---
 
-### 2. Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality
+### 2. Nano Banana 2: Google's latest AI image generation model
 
 **公司**：Google
 
-**摘要**：Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality&nbsp;&nbsp;Telekom
+**来源**：Hacker News
 
-**来源**：Google News
-
-🔗 [阅读原文](https://news.google.com/rss/articles/CBMingFBVV95cUxNdG83SHJDblZIUHJ1cE9fQk82c1BrSW0tVGlNQzRwZDZBQzJ0ZWRmb0lpYkRPNjgxcnhTeWdnWVk4Z2NrQ2hQanpmLWxXdDk5SWxqODZwdkUtZW4tblBPd3R6UlVGbzV1WHdqNkhEWGRHcFFfQWwzOTNSTkFQOEVGNld0NVJPY1E3c0xQTUhrXzVvQTZGTTZRNF9vVGt0UQ?oc=5)
+🔗 [阅读原文](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
-### 3. Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’
+### 3. Bringing Nano Banana 2 to enterprise
 
 **公司**：Google
 
-**摘要**：Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’&nbsp;&nbsp;Industrial Cyber
+**摘要**：Bringing Nano Banana 2 to enterprise&nbsp;&nbsp;Google Cloud
 
 **来源**：Google News
 
-🔗 [阅读原文](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaHhjRFA0RDdfWkFVUUlxZkE5S3hJNWc5aWYxNmkwVThQVmJVN2h1ZlhoQmxCbE5QQTM0UXBiaXBrRU42d3hraC1rWndwOFJKLXdscUhzVmFfUXRYU015bURjT0dEd0JvMDN4YlFfN3FmSGhncmV1ckQwZUhqbDlYeEI5UHo5TEk3akZHUTNSbkE2OXZsSFBkbUdJTXBqdERLVVVIeWh1cDR5TE5BTDhFWGJxR3k0c3VDT2wtZVIxYzF4LWtjeDhJb2VVaUVnZnlLQmVOOVVQY2NPMmIzMTRPMQ?oc=5)
+🔗 [阅读原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFVaRGpWYjBMRXVKd3RUVV9WTmFoSk9FWXRjM3g3UWdYMVdTY3M5RUU1YnZZVXdXcGMyUWdEOVdtc2hTWDFvSDhrVy1VTzdoLXg0OHVxTldzODh4SFhqbUNLN0w3TmZFMGk3b2dEczBpVUcxdC1XREpvNDRQMGdYTUkzdS1KMU5sLUZKMkI0bU1ISmdsTmpWQ0dhcw?oc=5)
 
 ---
 
@@ -149,15 +145,15 @@
 
 ---
 
-### 5. 203 Billion Reasons Why Microsoft Is a Buy in 2026
+### 5. MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs
 
 **公司**：Microsoft
 
-**摘要**：203 Billion Reasons Why Microsoft Is a Buy in 2026&nbsp;&nbsp;The Motley Fool
+**摘要**：MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs&nbsp;&nbsp;Microsoft
 
 **来源**：Google News
 
-🔗 [阅读原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXpWNjFDWGpSR1ZBQkxVTUZQVDZjeUduVVFMUzlPTW9wRU9KUzA2bndkZ0dEVGQ3c3Y5NllScFVXbGt6bGdBLW16OWFYVUpuUVpfQl9aT2N6YWYtSnVFa09Oa1VtNXM0Z3EzS3FfMHRBdkxpV1lvNjlFb0FBbzkwSEpjclNxRkNDQTNJOU1McWpXeEhXU1FNQg?oc=5)
+🔗 [阅读原文](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWW4xMUFzeE5uREF5X1NadGV5QW5TVFNuWDdDS1dyMUVyeFJnRmhYM2pzbjBTWFZscXBHQWY5WWRsMHkzWTNFUlZPT0VIX19XRERTb3VhZkdCT24zSnJpQjZtUHpRU1drbm8zVlBhdThXcFc2T2U1SU9IQTNuNWVscHpjUFNQRmc5RjM2VWxkbF90ZlYtaWJORnpKVEc3b1ZqdjFnM2xVQ2l6Um95OWh1Qlo3M3ROTHB5ZXJweFNMZDZtTFByYjBZbmdnTzB6R1Q3RGRUTlBvVTFHNkY0RjZjWjl0anJsa0FiNmlkX1UyWVlCNjhMZExr?oc=5)
 
 ---
 
@@ -173,93 +169,25 @@
 
 ---
 
-### 7. IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight
+### 7. So, we’re getting Prada Meta AI glasses, right?
 
 **公司**：Meta
 
-**来源**：Hacker News
-
-🔗 [阅读原文](https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html)
-
----
-
-### 8. Nvidia challenger AI chip startup MatX raised $500M
-
-**公司**：NVIDIA
-
-**摘要**：The startup was founded by former Google TPU engineers in 2023.
+**摘要**：Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.
 
 **来源**：TechCrunch
 
-🔗 [阅读原文](https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/)
+🔗 [阅读原文](https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/)
 
 ---
 
-### 9. Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers
-
-**公司**：NVIDIA
-
-**摘要**：Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.
-
-**来源**：TechCrunch
-
-🔗 [阅读原文](https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/)
-
----
-
-### 10. OpenAI, the US government and Persona built an identity surveillance machine
-
-**公司**：OpenAI
-
-**摘要**：Related ongoing thread: Discord cuts ties with identity verification software, Persona - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47136036...
-
-**来源**：Hacker News
-
-🔗 [阅读原文](https://vmfunc.re/blog/persona/)
-
----
-
-### 11. OpenAI resets spending expectations, from $1.4T to $600B
+### 8. How will OpenAI compete?
 
 **公司**：OpenAI
 
 **来源**：Hacker News
 
-🔗 [阅读原文](https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html)
-
----
-
-### 12. OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’
-
-**公司**：OpenAI
-
-**摘要**：There is a lot of talk around AI agents taking over business processes and claiming that "SaaS is dead." While these predictions have moved SaaS...
-
-**来源**：TechCrunch
-
-🔗 [阅读原文](https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/)
-
----
-
-### 13. US Military leaders meet with Anthropic to argue against Claude safeguards
-
-**公司**：Anthropic
-
-**来源**：Hacker News
-
-🔗 [阅读原文](https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai)
-
----
-
-### 14. Anthropic won’t budge as Pentagon escalates AI dispute
-
-**公司**：Anthropic
-
-**摘要**：The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises...
-
-**来源**：TechCrunch
-
-🔗 [阅读原文](https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/)
+🔗 [阅读原文](https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x)
 
 ---
 
