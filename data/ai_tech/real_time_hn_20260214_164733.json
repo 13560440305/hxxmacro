@@ -1,0 +1,58 @@
+[
+    {
+        "id": 47011567,
+        "title": "Show HN: SQL-tap \u2013 Real-time SQL traffic viewer for PostgreSQL and MySQL",
+        "url": "https://github.com/mickamy/sql-tap",
+        "score": 84,
+        "source": "Hacker News"
+    },
+    {
+        "id": 46965829,
+        "title": "The Three Year Myth",
+        "url": "https://green.spacedino.net/the-three-year-myth/",
+        "score": 29,
+        "source": "Hacker News"
+    },
+    {
+        "id": 46954696,
+        "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+        "url": "https://www.wallstreetraider.com/story.html",
+        "score": 229,
+        "source": "Hacker News"
+    },
+    {
+        "id": 46936671,
+        "title": "Understanding the Go Compiler: The Linker",
+        "url": "https://internals-for-interns.com/posts/the-go-linker/",
+        "score": 56,
+        "source": "Hacker News"
+    },
+    {
+        "id": 47012717,
+        "title": "Zig \u2013 io_uring and Grand Central Dispatch std.Io implementations landed",
+        "url": "https://ziglang.org/devlog/2026/#2026-02-13",
+        "score": 4,
+        "source": "Hacker News"
+    },
+    {
+        "id": 47008163,
+        "title": "Show HN: Data Engineering Book \u2013 An open source, community-driven guide",
+        "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+        "score": 153,
+        "source": "Hacker News"
+    },
+    {
+        "id": 46983873,
+        "title": "Common Lisp Screenshots: today's CL applications in action",
+        "url": "http://www.lisp-screenshots.org",
+        "score": 99,
+        "source": "Hacker News"
+    },
+    {
+        "id": 47011602,
+        "title": "Backblaze Drive Stats for 2025",
+        "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+        "score": 59,
+        "source": "Hacker News"
+    }
+]

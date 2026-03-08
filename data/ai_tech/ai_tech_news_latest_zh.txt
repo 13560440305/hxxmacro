@@ -1,0 +1,144 @@
+AI 与科技新闻简报 | 2026-02-27
+==================================================
+
+【1】Google API密钥不是秘密，但后来Gemini改变了规则
+    原文：Google API keys weren't secrets, but then Gemini changed the rules
+    来源：Hacker News | 相关公司：Google
+
+【2】Nano Banana 2 ：谷歌最新的人工智能图像生成模型
+    原文：Nano Banana 2: Google's latest AI image generation model
+    来源：Hacker News | 相关公司：Google
+
+【3】OpenAI将如何竞争？
+    原文：How will OpenAI compete?
+    来源：Hacker News | 相关公司：OpenAI
+
+【4】将Nano Banana 2带入企业
+    原文：Bringing Nano Banana 2 to enterprise
+    摘要：将Nano Banana 2引入企业Google Cloud
+    来源：Google News | 相关公司：Google
+
+【5】Collective Health与Google Cloud合作推出新的人工智能驱动系统
+    原文：Collective Health Collaborates with Google Cloud to Launch New AI-Powered System
+    摘要：Collective Health与Google Cloud合作推出新的人工智能驱动系统MedCity新闻
+    来源：Google News | 相关公司：Google
+
+【6】ElevenLabs与Google Cloud for Cloud服务和最新的NVIDIA Blackwell GPU合作
+    原文：ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs
+    摘要：ElevenLabs与Google Cloud for Cloud Services和最新的NVIDIA Blackwell GPU合作PR Newswire
+    来源：Google News | 相关公司：Google
+
+【7】德国电信和谷歌云携手Agentic AI打造卓越网络体验
+    原文：Deutsche Telekom and Google Cloud Collaborate for Superior Network Experience with Agentic AI
+    摘要：德国电信与谷歌云携手Agentic AI Telekom打造卓越网络体验
+    来源：Google News | 相关公司：Google
+
+【8】Aly Pte. Ltd.在Google Cloud Marketplace上推出SpikingAI ，以深入了解新加坡和东南亚的机构资金流动情况
+    原文：Aly Pte. Ltd. Launches SpikingAI on Google Cloud Marketplace to Deliver Insights on Institutional Money Flows Across Singapore and Southeast Asia
+    摘要：Aly Pte. Ltd.在Google Cloud Marketplace上推出SpikingAI ，以深入了解新加坡和东南部的机构资金流动情况...
+    来源：Google News | 相关公司：Google
+
+【9】谷歌的云人工智能主管在模型能力的三个前沿
+    原文：Google’s Cloud AI chief on the three frontiers of model capability
+    摘要：谷歌云人工智能主管在模型功能的三个前沿TechCrunch
+    来源：Google News | 相关公司：Google
+
+【10】Giles AI案例研究
+    原文：Giles AI case study
+    摘要：Giles AI案例研究Google Cloud
+    来源：Google News | 相关公司：Google
+
+【11】AI Push为GOOGL的云业务提供了推动力：前方还有更多优势吗？
+    原文：AI Push Provides a Boost to GOOGL's Cloud Business: More Upside Ahead?
+    摘要：AI Push为GOOGL的云业务提供了推动力：前方还有更多优势吗？环球邮报
+    来源：Google News | 相关公司：Google
+
+【12】Microsoft Sovereign Cloud增加了对大型AI模型的治理、生产力和支持，即使在完全断开连接的情况下也能安全运行
+    原文：Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected
+    摘要：Microsoft Sovereign Cloud增加了对大型AI模型的治理、生产力和支持，即使在完全...
+    来源：Google News | 相关公司：Microsoft
+
+【13】MWC 2026 ：微软帮助电信实现AI ROI -微软行业博客
+    原文：MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs
+    摘要：MWC 2026 ：微软帮助电信实现AI ROI -微软行业博客微软
+    来源：Google News | 相关公司：Microsoft
+
+【14】MAIA 200 ：为推理而构建的人工智能加速器
+    原文：Maia 200: The AI accelerator built for inference
+    摘要：MAIA 200 ：为推理而构建的人工智能加速器微软官方博客
+    来源：Google News | 相关公司：Microsoft
+
+【15】Azure上的PostgreSQL为AI增压
+    原文：PostgreSQL on Azure supercharged for AI
+    摘要：PostgreSQL on Azure为AI Microsoft Azure增压
+    来源：Google News | 相关公司：Microsoft
+
+【16】人工智能实用程序：微软在2026年基础设施热潮中的主导地位
+    原文：The AI Utility: Microsoft’s Dominance in the 2026 Infrastructure Boom
+    摘要：人工智能实用程序：微软在2026年基础设施繁荣金融内容中的主导地位
+    来源：Google News | 相关公司：Microsoft
+
+【17】普华永道通过Microsoft 365与Copilot在136个国家实现现代化，节省$ 1.5亿
+    原文：PwC modernizes across 136 countries via Microsoft 365 with Copilot, saves $150M
+    摘要：普华永道通过微软365与Copilot在136个国家实现现代化，为微软节省1.5亿美元$
+    来源：Google News | 相关公司：Microsoft
+
+【18】微软通过治理、本地生产力和人工智能扩展Sovereign Cloud安全性
+    原文：Microsoft expands Sovereign Cloud security with governance, local productivity and AI
+    摘要：微软通过治理、本地生产力和人工智能帮助网络安全来扩展Sovereign Cloud的安全性
+    来源：Google News | 相关公司：Microsoft
+
+【19】微软游戏重组凸显人工智能的雄心壮志和不断上升的监管问题
+    原文：Microsoft Gaming Shakeup Highlights AI Ambitions And Rising Regulatory Questions
+    摘要：微软游戏重组凸显了人工智能的雄心壮志和不断上升的监管问题simplywall.st
+    来源：Google News | 相关公司：Microsoft
+
+【20】谷歌为其巨大的100小时电池支付了10亿美元的初创公司Form Energy $
+    原文：Google paid startup Form Energy $1B for its massive 100-hour battery
+    摘要：这笔交易为Form Energy在明年可能上市之前筹集新一轮融资铺平了道路。
+    来源：TechCrunch | 相关公司：Google
+
+【21】所以，我们要买Prada Meta AI眼镜，对吧？
+    原文：So, we’re getting Prada Meta AI glasses, right?
+    摘要：马克·扎克伯格（ Mark Zuckerberg ）参加了普拉达（ Prada ）在米兰举办的时装周活动，让每个人都想知道我们是否会以普拉达（ Prada ）品牌推出Meta AI眼镜。
+    来源：TechCrunch | 相关公司：Meta
+
+【22】永远不要购买.online域名
+    原文：Never buy a .online domain
+    来源：Hacker News
+
+【23】告诉HN ： YC公司抓取GitHub活动，向用户发送垃圾邮件
+    原文：Tell HN: YC companies scrape GitHub activity, send spam emails to users
+    摘要：HN ，您好！我最近注意到一家YC公司（ Run Aywhere ， W26 ）向我发送了以下电子邮件：发件人： Aditya &lt; aditya@buildrunanywhere.org &gt;主题：...
+    来源：Hacker News
+
+【24】LLM的大规模在线去匿名化
+    原文：Large-Scale Online Deanonymization with LLMs
+    摘要：PDF ： https://arxiv.org/pdf/2602.16800 （通过https://arxiv.org/abs/2602.16800 ）
+    来源：Hacker News
+
+【25】AirSnitch ：揭秘并打破Wi-Fi网络中的客户端隔离[pdf]
+    原文：AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
+    来源：Hacker News
+
+【26】LLM =正确
+    原文：LLM=True
+    来源：Hacker News
+
+【27】用锤子在玻璃上“画”肖像的艺术家
+    原文：Artist who “paints” portraits on glass by hitting it with a hammer
+    来源：Hacker News
+
+【28】Claude Code的选择
+    原文：What Claude Code Chooses
+    来源：Hacker News
+
+【29】Show HN ： AI智能体可以玩的实时策略游戏
+    原文：Show HN: A real-time strategy game that AI agents can play
+    摘要：我喜欢将LLM带入游戏环境的所有项目。不过，这是一个奇怪的并置：前沿LLM可以一次性完整...
+    来源：Hacker News
+
+【30】开源捐赠基金–为开源维护者提供新的资金来源
+    原文：Open Source Endowment – new funding source for open source maintainers
+    来源：Hacker News
+

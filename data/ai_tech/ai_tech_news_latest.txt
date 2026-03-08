@@ -1,0 +1,114 @@
+AI 与科技新闻简报 (英文版) | 2026-02-27
+==================================================
+
+【1】Google API keys weren't secrets, but then Gemini changed the rules
+    来源：Hacker News | 相关公司：Google
+
+【2】Nano Banana 2: Google's latest AI image generation model
+    来源：Hacker News | 相关公司：Google
+
+【3】How will OpenAI compete?
+    来源：Hacker News | 相关公司：OpenAI
+
+【4】Bringing Nano Banana 2 to enterprise
+    摘要：Bringing Nano Banana 2 to enterprise&nbsp;&nbsp;Google Cloud
+    来源：Google News | 相关公司：Google
+
+【5】Collective Health Collaborates with Google Cloud to Launch New AI-Powered System
+    摘要：Collective Health Collaborates with Google Cloud to Launch New AI-Powered System&nbsp;&nbsp;MedCity News
+    来源：Google News | 相关公司：Google
+
+【6】ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs
+    摘要：ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs&nbsp;&nbsp;PR Newswire
+    来源：Google News | 相关公司：Google
+
+【7】Deutsche Telekom and Google Cloud Collaborate for Superior Network Experience with Agentic AI
+    摘要：Deutsche Telekom and Google Cloud Collaborate for Superior Network Experience with Agentic AI&nbsp;&nbsp;Telekom
+    来源：Google News | 相关公司：Google
+
+【8】Aly Pte. Ltd. Launches SpikingAI on Google Cloud Marketplace to Deliver Insights on Institutional Money Flows Across Singapore and Southeast Asia
+    摘要：Aly Pte. Ltd. Launches SpikingAI on Google Cloud Marketplace to Deliver Insights on Institutional Money Flows Across Singapore and Southeast...
+    来源：Google News | 相关公司：Google
+
+【9】Google’s Cloud AI chief on the three frontiers of model capability
+    摘要：Google’s Cloud AI chief on the three frontiers of model capability&nbsp;&nbsp;TechCrunch
+    来源：Google News | 相关公司：Google
+
+【10】Giles AI case study
+    摘要：Giles AI case study&nbsp;&nbsp;Google Cloud
+    来源：Google News | 相关公司：Google
+
+【11】AI Push Provides a Boost to GOOGL's Cloud Business: More Upside Ahead?
+    摘要：AI Push Provides a Boost to GOOGL's Cloud Business: More Upside Ahead?&nbsp;&nbsp;The Globe and Mail
+    来源：Google News | 相关公司：Google
+
+【12】Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected
+    摘要：Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely...
+    来源：Google News | 相关公司：Microsoft
+
+【13】MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs
+    摘要：MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs&nbsp;&nbsp;Microsoft
+    来源：Google News | 相关公司：Microsoft
+
+【14】Maia 200: The AI accelerator built for inference
+    摘要：Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog
+    来源：Google News | 相关公司：Microsoft
+
+【15】PostgreSQL on Azure supercharged for AI
+    摘要：PostgreSQL on Azure supercharged for AI&nbsp;&nbsp;Microsoft Azure
+    来源：Google News | 相关公司：Microsoft
+
+【16】The AI Utility: Microsoft’s Dominance in the 2026 Infrastructure Boom
+    摘要：The AI Utility: Microsoft’s Dominance in the 2026 Infrastructure Boom&nbsp;&nbsp;FinancialContent
+    来源：Google News | 相关公司：Microsoft
+
+【17】PwC modernizes across 136 countries via Microsoft 365 with Copilot, saves $150M
+    摘要：PwC modernizes across 136 countries via Microsoft 365 with Copilot, saves $150M&nbsp;&nbsp;Microsoft
+    来源：Google News | 相关公司：Microsoft
+
+【18】Microsoft expands Sovereign Cloud security with governance, local productivity and AI
+    摘要：Microsoft expands Sovereign Cloud security with governance, local productivity and AI&nbsp;&nbsp;Help Net Security
+    来源：Google News | 相关公司：Microsoft
+
+【19】Microsoft Gaming Shakeup Highlights AI Ambitions And Rising Regulatory Questions
+    摘要：Microsoft Gaming Shakeup Highlights AI Ambitions And Rising Regulatory Questions&nbsp;&nbsp;simplywall.st
+    来源：Google News | 相关公司：Microsoft
+
+【20】Google paid startup Form Energy $1B for its massive 100-hour battery
+    摘要：The deal paves the way for Form Energy to raise a new funding round before potentially going public next year.
+    来源：TechCrunch | 相关公司：Google
+
+【21】So, we’re getting Prada Meta AI glasses, right?
+    摘要：Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.
+    来源：TechCrunch | 相关公司：Meta
+
+【22】Never buy a .online domain
+    来源：Hacker News
+
+【23】Tell HN: YC companies scrape GitHub activity, send spam emails to users
+    摘要：Hi HN,I recently noticed that an YC company (Run ANywhere, W26) sent me the following email:From: Aditya &lt;aditya@buildrunanywhere.org&gt;Subject:...
+    来源：Hacker News
+
+【24】Large-Scale Online Deanonymization with LLMs
+    摘要：Pdf: https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2602.16800 (via https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2602.16800)
+    来源：Hacker News
+
+【25】AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]
+    来源：Hacker News
+
+【26】LLM=True
+    来源：Hacker News
+
+【27】Artist who “paints” portraits on glass by hitting it with a hammer
+    来源：Hacker News
+
+【28】What Claude Code Chooses
+    来源：Hacker News
+
+【29】Show HN: A real-time strategy game that AI agents can play
+    摘要：I&#x27;ve liked all the projects that put LLMs into game environments. It&#x27;s been a weird juxtaposition, though: frontier LLMs can one-shot full...
+    来源：Hacker News
+
+【30】Open Source Endowment – new funding source for open source maintainers
+    来源：Hacker News
+

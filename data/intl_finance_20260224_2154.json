@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "generated_at": "2026-02-24T21:54:36.344893",
+    "version": "3.0",
+    "description": "国际金融数据：美股、港股、黄金、外汇",
+    "data_source": "Stooq (波兰) + Yahoo Finance + ExchangeRate-API",
+    "optimized_for": "新加坡服务器"
+  },
+  "us_stocks": [
+    {
+      "name": "道琼斯工业平均指数",
+      "symbol": "^dji",
+      "price": "48804.06",
+      "source": "Stooq",
+      "timestamp": "2026-02-24 21:54:37"
+    },
+    {
+      "name": "标普500指数",
+      "symbol": "^spx",
+      "price": "6837.75",
+      "source": "Stooq",
+      "timestamp": "2026-02-24 21:54:40"
+    },
+    {
+      "name": "纳斯达克综合指数",
+      "symbol": "^ndq",
+      "price": "22627.27",
+      "source": "Stooq",
+      "timestamp": "2026-02-24 21:54:41"
+    }
+  ],
+  "hk_stocks": [
+    {
+      "name": "恒生指数",
+      "symbol": "^hsi",
+      "price": "26590.32",
+      "source": "Stooq",
+      "timestamp": "2026-02-24 21:54:45"
+    }
+  ],
+  "gold": [
+    {
+      "name": "黄金期货",
+      "symbol": "gc.f",
+      "price": "5150.84",
+      "source": "Stooq",
+      "timestamp": "2026-02-24 21:54:47",
+      "unit": "期货价格"
+    }
+  ],
+  "forex": [
+    {
+      "pair": "USDCNY",
+      "name": "美元/人民币",
+      "rate": 6.92,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:54:47"
+    },
+    {
+      "pair": "USDEUR",
+      "name": "美元/欧元",
+      "rate": 0.848,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:54:47"
+    },
+    {
+      "pair": "USDJPY",
+      "name": "美元/日元",
+      "rate": 154.59,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:54:47"
+    },
+    {
+      "pair": "USDGBP",
+      "name": "美元/英镑",
+      "rate": 0.741,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:54:47"
+    },
+    {
+      "pair": "USDAUD",
+      "name": "美元/澳元",
+      "rate": 1.42,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:54:47"
+    },
+    {
+      "pair": "USDSGD",
+      "name": "美元/新加坡元",
+      "rate": 1.27,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:54:47"
+    }
+  ]
+}

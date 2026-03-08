@@ -1,0 +1,74 @@
+[
+  {
+    "id": 47011567,
+    "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+    "url": "https://github.com/mickamy/sql-tap",
+    "score": 80,
+    "time": 1771043255,
+    "source": "Hacker News"
+  },
+  {
+    "id": 46954696,
+    "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+    "url": "https://www.wallstreetraider.com/story.html",
+    "score": 224,
+    "time": 1770691498,
+    "source": "Hacker News"
+  },
+  {
+    "id": 46965829,
+    "title": "The Three Year Myth",
+    "url": "https://green.spacedino.net/the-three-year-myth/",
+    "score": 24,
+    "time": 1770753098,
+    "source": "Hacker News"
+  },
+  {
+    "id": 46936671,
+    "title": "Understanding the Go Compiler: The Linker",
+    "url": "https://internals-for-interns.com/posts/the-go-linker/",
+    "score": 54,
+    "time": 1770572806,
+    "source": "Hacker News"
+  },
+  {
+    "id": 47008163,
+    "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+    "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+    "score": 149,
+    "time": 1771018552,
+    "source": "Hacker News"
+  },
+  {
+    "id": 46983873,
+    "title": "Common Lisp Screenshots: today's CL applications in action",
+    "url": "http://www.lisp-screenshots.org",
+    "score": 97,
+    "time": 1770860675,
+    "source": "Hacker News"
+  },
+  {
+    "id": 47006594,
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "url": "https://openai.com/index/new-result-theoretical-physics/",
+    "score": 462,
+    "time": 1771010412,
+    "source": "Hacker News"
+  },
+  {
+    "id": 47005509,
+    "title": "Building a TUI is easy now",
+    "url": "https://hatchet.run/blog/tuis-are-easy-now",
+    "score": 213,
+    "time": 1771005054,
+    "source": "Hacker News"
+  },
+  {
+    "id": 47011602,
+    "title": "Backblaze Drive Stats for 2025",
+    "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-2025/",
+    "score": 55,
+    "time": 1771043701,
+    "source": "Hacker News"
+  }
+]

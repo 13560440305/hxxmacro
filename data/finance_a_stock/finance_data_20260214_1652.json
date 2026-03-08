@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "generated_at": "2026-02-14T16:52:42.479282",
+    "source": "财经抓取脚本 v1.0"
+  },
+  "us_indices": [
+    {
+      "name": "道琼斯",
+      "code": "DJI",
+      "price": "N/A",
+      "change": "N/A",
+      "change_amount": "N/A",
+      "url": "https://quote.eastmoney.com/us/DJI.html",
+      "source": "东方财富",
+      "timestamp": "2026-02-14T16:52:42.685644"
+    },
+    {
+      "name": "纳斯达克",
+      "code": "IXIC",
+      "price": "N/A",
+      "change": "N/A",
+      "change_amount": "N/A",
+      "url": "https://quote.eastmoney.com/us/IXIC.html",
+      "source": "东方财富",
+      "timestamp": "2026-02-14T16:52:43.846596"
+    },
+    {
+      "name": "标普500",
+      "code": "INX",
+      "price": "N/A",
+      "change": "N/A",
+      "change_amount": "N/A",
+      "url": "https://quote.eastmoney.com/us/INX.html",
+      "source": "东方财富",
+      "timestamp": "2026-02-14T16:52:44.978495"
+    }
+  ],
+  "gold": {
+    "name": "黄金现货",
+    "price": "å®æ¶ç­å¸\nåå¸\n",
+    "url": "https://finance.sina.com.cn/nmetal/",
+    "source": "新浪财经",
+    "timestamp": "2026-02-14T16:52:46.165538"
+  }
+}

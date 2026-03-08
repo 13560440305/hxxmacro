@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "generated_at": "2026-02-14T16:53:39.787819"
+  },
+  "indices": [
+    {
+      "name": "道琼斯工业平均指数",
+      "symbol": "^DJI",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-02-14T16:53:41.205401"
+    },
+    {
+      "name": "纳斯达克综合指数",
+      "symbol": "^IXIC",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-02-14T16:53:41.996737"
+    },
+    {
+      "name": "标普500指数",
+      "symbol": "^GSPC",
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "source": "Yahoo Finance",
+      "timestamp": "2026-02-14T16:53:44.182495"
+    }
+  ],
+  "forex": []
+}

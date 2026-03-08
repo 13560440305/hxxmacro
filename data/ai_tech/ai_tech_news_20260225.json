@@ -1,0 +1,430 @@
+{
+  "generated": "2026-02-25T21:04:20.229783",
+  "total": 30,
+  "news": [
+    {
+      "title": "OpenAI, the US government and Persona built an identity surveillance machine",
+      "url": "https://vmfunc.re/blog/persona/",
+      "summary": "Related ongoing thread: Discord cuts ties with identity verification software, Persona - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47136036...",
+      "score": 591,
+      "comments": 184,
+      "hn_link": "https://news.ycombinator.com/item?id=47140632",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "priority": 2,
+      "title_zh": "OpenAI、美国政府和Persona构建了身份监控机器",
+      "summary_zh": "正在进行的相关对话： Discord与身份验证软件Persona断绝了联系- https://news.ycombinator.com/item?id=47136036..."
+    },
+    {
+      "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+      "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
+      "summary": "",
+      "score": 213,
+      "comments": 211,
+      "hn_link": "https://news.ycombinator.com/item?id=47136537",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [
+        "Meta"
+      ],
+      "priority": 2,
+      "title_zh": "美国国税局对Meta的策略在企业税斗争中开辟了新的战线",
+      "summary_zh": ""
+    },
+    {
+      "title": "OpenAI resets spending expectations, from $1.4T to $600B",
+      "url": "https://www.cnbc.com/2026/02/20/openai-resets-spend-expectations-targets-around-600-billion-by-2030.html",
+      "summary": "",
+      "score": 209,
+      "comments": 177,
+      "hn_link": "https://news.ycombinator.com/item?id=47140623",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "priority": 2,
+      "title_zh": "OpenAI将支出预期从$ 1.4T重置为$ 600B",
+      "summary_zh": ""
+    },
+    {
+      "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
+      "url": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
+      "summary": "",
+      "score": 168,
+      "comments": 74,
+      "hn_link": "https://news.ycombinator.com/item?id=47145551",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [
+        "Anthropic"
+      ],
+      "priority": 2,
+      "title_zh": "美国军方领导人与Anthropic会面，反对克劳德的保障措施",
+      "summary_zh": ""
+    },
+    {
+      "title": "Anthropic at Google Cloud Next 2026",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yQ09mbjY3OU9PRkpqWlBMODZTeXY0VjdZTTBGVDJVRFRtTlJFX3RHWkxjQWV3ZDJ2ZkV4SDVONVJrZTJILU4tVHFNSV9PZHdRaVYzZy1ubnkteF9CV3B1c1hKZDlIRml5Mi02VmRibzBaSVZGRXU4?oc=5",
+      "summary": "Anthropic at Google Cloud Next 2026&nbsp;&nbsp;Anthropic",
+      "published": "Tue, 24 Feb 2026 23:02:25 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "Anthropic at 谷歌 云 Next 2026",
+      "summary_zh": "Anthropic在Google Cloud Next 2026 Anthropic"
+    },
+    {
+      "title": "Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdG83SHJDblZIUHJ1cE9fQk82c1BrSW0tVGlNQzRwZDZBQzJ0ZWRmb0lpYkRPNjgxcnhTeWdnWVk4Z2NrQ2hQanpmLWxXdDk5SWxqODZwdkUtZW4tblBPd3R6UlVGbzV1WHdqNkhEWGRHcFFfQWwzOTNSTkFQOEVGNld0NVJPY1E3c0xQTUhrXzVvQTZGTTZRNF9vVGt0UQ?oc=5",
+      "summary": "Dt. Telekom and Google Cloud: AI-Agent MINDR for superior network quality&nbsp;&nbsp;Telekom",
+      "published": "Wed, 25 Feb 2026 11:00:00 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "Dt. Telekom和Google Cloud ： AI-Agent MINDR提供卓越的网络质量",
+      "summary_zh": "Dt. Telekom和Google Cloud ： AI-Agent MINDR ，提供卓越的网络质量Telekom"
+    },
+    {
+      "title": "Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaHhjRFA0RDdfWkFVUUlxZkE5S3hJNWc5aWYxNmkwVThQVmJVN2h1ZlhoQmxCbE5QQTM0UXBiaXBrRU42d3hraC1rWndwOFJKLXdscUhzVmFfUXRYU015bURjT0dEd0JvMDN4YlFfN3FmSGhncmV1ckQwZUhqbDlYeEI5UHo5TEk3akZHUTNSbkE2OXZsSFBkbUdJTXBqdERLVVVIeWh1cDR5TE5BTDhFWGJxR3k0c3VDT2wtZVIxYzF4LWtjeDhJb2VVaUVnZnlLQmVOOVVQY2NPMmIzMTRPMQ?oc=5",
+      "summary": "Google Cloud calls for unified AI defense as energy sector faces cyber ‘perfect storm’&nbsp;&nbsp;Industrial Cyber",
+      "published": "Mon, 23 Feb 2026 11:13:16 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "谷歌云呼吁统一人工智能防御，因为能源部门面临网络“完美风暴”",
+      "summary_zh": "谷歌云呼吁统一人工智能防御，因为能源部门面临网络“完美风暴”工业网络"
+    },
+    {
+      "title": "Google could reportedly invest $100M in AI cloud operator Fluidstack",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1pvX0YzMGdRaEh6aUhZZEhqd21PVnBJM3prWnc1ME9sc0w0dG5USFBLR2ItZk1HR010RHhWRm93MzNqN1NCZUhjNHpoVnVjcmJLUnpkLUV5akM1NFU2MElja1VfUi1OYzBwbTNPMkJzc0NrUGNXZDgxcW5IdXNvckN0STZBQTBlWnVjTjhQMnVnWE9jdG0wanRNcw?oc=5",
+      "summary": "Google could reportedly invest $100M in AI cloud operator Fluidstack&nbsp;&nbsp;SiliconANGLE",
+      "published": "Sat, 21 Feb 2026 01:34:02 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "据报道，谷歌可能向人工智能云运营商Fluidstack投资1亿美元$",
+      "summary_zh": "据报道，谷歌可能向人工智能云运营商Fluidstack SiliconANGLE投资1亿美元$"
+    },
+    {
+      "title": "Google Cloud Security: Protecting the Cloud from AI Threats",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2tIcDJBWVR0SnRKSUQ4Nk1hNE5Pa2JxNktoSmVUNEFYVTFpblRXVkpsbmJEMjZLOFdyRUliQnNxdTZtUUJqQ3dTVGkwbUhnRE91TktpaFBPa2NvUkZnUDdqVFNoemxUd1BWOF9rS2dhWkY5Wkh3MFBLUmlDSmx3MFdHLXgzVEZuMGxPRlBPVHFDM1k?oc=5",
+      "summary": "Google Cloud Security: Protecting the Cloud from AI Threats&nbsp;&nbsp;Cyber Magazine",
+      "published": "Tue, 24 Feb 2026 16:48:59 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "谷歌云安全：保护云免受人工智能威胁",
+      "summary_zh": "谷歌云安全：保护云免受AI威胁网络杂志"
+    },
+    {
+      "title": "Google’s Cloud AI leads on the three frontiers of model capability",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVmlZcnZpbVFJSk1VSzJIX3lMS0YtOV9mODd1RGd6N0gwaXJqdlZ5el9mbDNUSVhzbXpadUZ5VW1VaHBIUVhTV3ZNUXNBLUpKNmp5cHBqc25YYTlwUG51R0RFZWF5TDhpLVRneVpfSU5tcWNieFhxQ2JkX0QzTE5CUWEtUEdKTWFkbVpRbEJJZFZUOGlURjUzYWZ1LW9QejVY?oc=5",
+      "summary": "Google’s Cloud AI leads on the three frontiers of model capability&nbsp;&nbsp;TechCrunch",
+      "published": "Mon, 23 Feb 2026 19:18:42 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "谷歌的云人工智能在模型能力的三个前沿领域处于领先地位",
+      "summary_zh": "谷歌的云人工智能在模型功能的三个前沿领域处于领先地位TechCrunch"
+    },
+    {
+      "title": "Google Cloud and Unilever Map the Future of AI-Powered Business",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaC1Wd1NpOUtFVWZWVzkyTmNwX1lWMnhpbXE1eDk5NGNMUkFRVndiMFNsSDVBR2xVLXpIbEtfX3hiRVJMYXhSb0NXV1BMNlhNQndfMVF5d3FGRnM1RVFuVUdmX0t6dmhGSjVpYWZxWkZxUmYtd1FTLWR5SDY3aGZKelFMalhYNGxibzZTSEdFa1FYaHM?oc=5",
+      "summary": "Google Cloud and Unilever Map the Future of AI-Powered Business&nbsp;&nbsp;Cloud Wars",
+      "published": "Mon, 23 Feb 2026 16:00:00 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "谷歌云和联合利华描绘人工智能业务的未来",
+      "summary_zh": "谷歌云和联合利华描绘了人工智能驱动的企业云大战的未来"
+    },
+    {
+      "title": "Gemini 3.1 Pro on Gemini CLI, Gemini Enterprise, and Vertex AI",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVDQ1QWpQWlNHUEUxaGZjdlVSbkdFUGJITTkzUzl5SEZyaE5iWjhJd2Y5ckVvVHFtTy1vSUlGdUVmYVBqdFRqXy04MDRiVkVzTzBPaUpwV3k0aGJacm90dUJEUGNfNDE5WHVwdUkzX2U4LXFIYmR4UHFGc04zeWtIS3VtMFpRNWQyd2c1aE40Qjg0TjlIVUFBemN5MXgyWVZKLXotQjg4YnU5ZFRDczB3TXI5clR1eGtaZVY4?oc=5",
+      "summary": "Gemini 3.1 Pro on Gemini CLI, Gemini Enterprise, and Vertex AI&nbsp;&nbsp;Google Cloud",
+      "published": "Thu, 19 Feb 2026 16:11:42 GMT",
+      "company": "Google",
+      "source": "Google News",
+      "companies": [
+        "Google"
+      ],
+      "is_ai": true,
+      "title_zh": "Gemini 3.1 Pro ，适用于Gemini CLI、Gemini Enterprise和Vertex AI",
+      "summary_zh": "Gemini 3.1 Pro ，适用于Gemini CLI、Gemini Enterprise和Vertex AI Google Cloud"
+    },
+    {
+      "title": "Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely disconnected",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdVJuT2pfRlVwZTBQVUpDQUlnT1RjLUhhQ0cwVVU4R2JMZlhrLVl0bmZnTVFNdndrYmFsbklLWFpOajA5dENfaUhSY3NSc2FBUl92MkRzR0FaRG01WHREVFdHekZES3czcFdEREl6T21jNlExQlZTVElmS284QlMzZFVWdUxROUNQQU5OYmp2dHZveGNXclAyM0pZeVhZQ0lqUzV0T3dzczFpRFVMVEhoUTRqVmdoSVlpREh1SUcyeGFvM1d6cFloTDFTQTdmUGVmZE0wbjFyekt6M2JyZ2ZHOFRIM00yZHo4NEdUeHlEeGpMTFN2U1RLMFV1azBWejg5YU5iSkpDUkg2SlZwSXdZ?oc=5",
+      "summary": "Microsoft Sovereign Cloud adds governance, productivity and support for large AI models securely running even when completely...",
+      "published": "Tue, 24 Feb 2026 15:45:38 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "Microsoft Sovereign Cloud增加了对大型AI模型的治理、生产力和支持，即使在完全断开连接的情况下也能安全运行",
+      "summary_zh": "Microsoft Sovereign Cloud增加了对大型AI模型的治理、生产力和支持，即使在完全..."
+    },
+    {
+      "title": "203 Billion Reasons Why Microsoft Is a Buy in 2026",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdXpWNjFDWGpSR1ZBQkxVTUZQVDZjeUduVVFMUzlPTW9wRU9KUzA2bndkZ0dEVGQ3c3Y5NllScFVXbGt6bGdBLW16OWFYVUpuUVpfQl9aT2N6YWYtSnVFa09Oa1VtNXM0Z3EzS3FfMHRBdkxpV1lvNjlFb0FBbzkwSEpjclNxRkNDQTNJOU1McWpXeEhXU1FNQg?oc=5",
+      "summary": "203 Billion Reasons Why Microsoft Is a Buy in 2026&nbsp;&nbsp;The Motley Fool",
+      "published": "Sat, 17 Jan 2026 08:00:00 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "2026年收购微软的2030亿个理由",
+      "summary_zh": "2026年微软收购Motley Fool的2030亿个理由"
+    },
+    {
+      "title": "Maia 200: The AI accelerator built for inference",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
+      "summary": "Maia 200: The AI accelerator built for inference&nbsp;&nbsp;The Official Microsoft Blog",
+      "published": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "MAIA 200 ：为推理而构建的人工智能加速器",
+      "summary_zh": "MAIA 200 ：为推理而构建的人工智能加速器微软官方博客"
+    },
+    {
+      "title": "PostgreSQL on Azure supercharged for AI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDhFRUhLTV94T1hLLWFEVjRNRTVreVlTbTVrYWZ0QU5TaHFKN3lZSkc5RDVqY3NqWC1DTUdERE9XQ1dYcm1FaG94U0JCMUluQXNacWhhM0lvUURCenI4Z1FGejZLbzN3cWdSSllCTE5hTzc1RXVIUkJxX0NTM25tdHliZ1lIdw?oc=5",
+      "summary": "PostgreSQL on Azure supercharged for AI&nbsp;&nbsp;Microsoft Azure",
+      "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "Azure上的PostgreSQL为AI增压",
+      "summary_zh": "PostgreSQL on Azure为AI Microsoft Azure增压"
+    },
+    {
+      "title": "G‑STAR transforms workplace support with an AI assistant integrated in Microsoft Teams",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iRVhpZU9OZDdhd2ZQeU1FTHdlcW03UEoyQ200SFBZdVdKQnNPTmhQN2Y0R09lSktSRFRXUjR1YXRKWkJHaEhCTXNXRHpGcVJ6Q1FXbVJxb3ljclF3aTdseEs2R2E3N3NqME1iMTdVRjY?oc=5",
+      "summary": "G‑STAR transforms workplace support with an AI assistant integrated in Microsoft Teams&nbsp;&nbsp;Microsoft",
+      "published": "Wed, 25 Feb 2026 10:49:12 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "G ‑ STAR通过集成在Microsoft Teams中的AI助手转变工作场所支持",
+      "summary_zh": "G ‑ STAR通过集成在Microsoft Teams中的AI助手转变工作场所支持"
+    },
+    {
+      "title": "MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWW4xMUFzeE5uREF5X1NadGV5QW5TVFNuWDdDS1dyMUVyeFJnRmhYM2pzbjBTWFZscXBHQWY5WWRsMHkzWTNFUlZPT0VIX19XRERTb3VhZkdCT24zSnJpQjZtUHpRU1drbm8zVlBhdThXcFc2T2U1SU9IQTNuNWVscHpjUFNQRmc5RjM2VWxkbF90ZlYtaWJORnpKVEc3b1ZqdjFnM2xVQ2l6Um95OWh1Qlo3M3ROTHB5ZXJweFNMZDZtTFByYjBZbmdnTzB6R1Q3RGRUTlBvVTFHNkY0RjZjWjl0anJsa0FiNmlkX1UyWVlCNjhMZExr?oc=5",
+      "summary": "MWC 2026: Microsoft Helps Telecoms Realize AI ROI - Microsoft Industry Blogs&nbsp;&nbsp;Microsoft",
+      "published": "Tue, 24 Feb 2026 17:00:00 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "MWC 2026 ：微软帮助电信实现AI ROI -微软行业博客",
+      "summary_zh": "MWC 2026 ：微软帮助电信实现AI ROI -微软行业博客微软"
+    },
+    {
+      "title": "Microsoft expands Sovereign Cloud security with governance, local productivity and AI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQjRJTEZ0eFlYMzlBNzBmSXd6b0oxbkgtNFE2WUZya21SZUpaamFZNFZTU1BWbGYzRmt1U2ItYkVBdU1ZR2RULWY1N2o3bzBJMXdNTENLSjU4Umx5b0x5Q2EwY25JZ3FZam4yOVpEX3VNQlE1WGdEUlU4ZElvcHVJLUpGaGI0NkNpQ19CbmtuQkFOMnkxQ21CRg?oc=5",
+      "summary": "Microsoft expands Sovereign Cloud security with governance, local productivity and AI&nbsp;&nbsp;Help Net Security",
+      "published": "Tue, 24 Feb 2026 13:19:21 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "微软通过治理、本地生产力和人工智能扩展Sovereign Cloud安全性",
+      "summary_zh": "微软通过治理、本地生产力和人工智能帮助网络安全来扩展Sovereign Cloud的安全性"
+    },
+    {
+      "title": "Microsoft Azure Local, 365 Local generally available: the cloud, offline",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMHNWOVJUZFpSNU42OHVaRUdBYWxSZE5uUmVyOW1GS3JySmt3NHQyMlUtMTlCZ1MweWFPYlhLRWR2Z0cycU1lNnlWTUQ5dGJrc3FXLWtiV0lmVHdfWDhRQUwxUWlVOGM3a1BoRmN3eURVcVFsSXRZTHNDaUdVQzBHRW8wYkR1ZDhmRDAtRV9UMDlCckdWakFwS2kxT0NZYjRxLUVXdnBjNWtFVHFmdEJzemJuN0VnVzVSUm4xd1hPakZtazA?oc=5",
+      "summary": "Microsoft Azure Local, 365 Local generally available: the cloud, offline&nbsp;&nbsp;Techzine Global",
+      "published": "Tue, 24 Feb 2026 13:43:40 GMT",
+      "company": "Microsoft",
+      "source": "Google News",
+      "companies": [
+        "Microsoft"
+      ],
+      "is_ai": true,
+      "title_zh": "Microsoft Azure本地， 365本地一般可用：云，离线",
+      "summary_zh": "Microsoft Azure Local ， 365 Local一般可用：云、离线Techzine Global"
+    },
+    {
+      "title": "Nvidia challenger AI chip startup MatX raised $500M",
+      "url": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+      "summary": "The startup was founded by former Google TPU engineers in 2023.",
+      "published": "Wed, 25 Feb 2026 00:45:47 +0000",
+      "companies": [
+        "NVIDIA"
+      ],
+      "is_ai": true,
+      "source": "TechCrunch",
+      "title_zh": "英伟达挑战者AI芯片初创公司MatX融资$ 5亿",
+      "summary_zh": "这家初创公司由前谷歌TPU工程师于2023年创立。"
+    },
+    {
+      "title": "Self-driving tech startup Wayve raises $1.2B from Nvidia, Uber, and three automakers",
+      "url": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+      "summary": "Major automakers, tech giants, AI companies, and chipmakers are all trying to get a piece of Wayve.",
+      "published": "Wed, 25 Feb 2026 00:37:59 +0000",
+      "companies": [
+        "NVIDIA"
+      ],
+      "is_ai": true,
+      "source": "TechCrunch",
+      "title_zh": "自动驾驶科技创业公司Wayve从英伟达、优步和三家汽车制造商筹集了12亿美元$",
+      "summary_zh": "主要的汽车制造商、科技巨头、人工智能公司和芯片制造商都在努力获得Wayve的一部分。"
+    },
+    {
+      "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
+      "url": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
+      "summary": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises...",
+      "published": "Tue, 24 Feb 2026 21:18:45 +0000",
+      "companies": [
+        "Anthropic"
+      ],
+      "is_ai": true,
+      "source": "TechCrunch",
+      "title_zh": "随着五角大楼升级人工智能纠纷， Anthropic不会让步",
+      "summary_zh": "五角大楼已允许Anthropic在周五之前放松人工智能护栏或面临潜在的处罚，从而加剧了一场引发..."
+    },
+    {
+      "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+      "url": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+      "summary": "There is a lot of talk around AI agents taking over business processes and claiming that \"SaaS is dead.\" While these predictions have moved SaaS...",
+      "published": "Tue, 24 Feb 2026 17:44:34 +0000",
+      "companies": [
+        "OpenAI"
+      ],
+      "is_ai": true,
+      "source": "TechCrunch",
+      "title_zh": "OpenAI首席运营官表示： “我们还没有真正看到人工智能渗透到企业业务流程中”",
+      "summary_zh": "有很多关于人工智能代理接管业务流程并声称“SaaS已经死了。“虽然这些预测推动了SaaS……"
+    },
+    {
+      "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+      "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+      "summary": "Report [pdf]: https:&#x2F;&#x2F;content.forensic-architecture.org&#x2F;wp-content&#x2F;uploads...",
+      "score": 1875,
+      "comments": 730,
+      "hn_link": "https://news.ycombinator.com/item?id=47136179",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "以色列国防军在2025年大屠杀中近距离杀害加沙援助工作者：报告",
+      "summary_zh": "报告[pdf] ： https://content.forensic-architecture.org/wp-content/uploads..."
+    },
+    {
+      "title": "Ladybird adopts Rust, with help from AI",
+      "url": "https://ladybird.org/posts/adopting-rust/",
+      "summary": "",
+      "score": 1259,
+      "comments": 694,
+      "hn_link": "https://news.ycombinator.com/item?id=47120899",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "Ladybird在人工智能的帮助下采用Rust",
+      "summary_zh": ""
+    },
+    {
+      "title": "How we rebuilt Next.js with AI in one week",
+      "url": "https://blog.cloudflare.com/vinext/",
+      "summary": "",
+      "score": 467,
+      "comments": 181,
+      "hn_link": "https://news.ycombinator.com/item?id=47142156",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "我们如何在一周内用AI重建Next.js",
+      "summary_zh": ""
+    },
+    {
+      "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+      "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+      "summary": "",
+      "score": 454,
+      "comments": 383,
+      "hn_link": "https://news.ycombinator.com/item?id=47133313",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "Firefox 148推出AI Kill Switch功能和更多增强功能",
+      "summary_zh": ""
+    },
+    {
+      "title": "Mercury 2: Fast reasoning LLM powered by diffusion",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2",
+      "summary": "",
+      "score": 259,
+      "comments": 105,
+      "hn_link": "https://news.ycombinator.com/item?id=47144464",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "Mercury 2 ：扩散驱动的快速推理LLM",
+      "summary_zh": ""
+    },
+    {
+      "title": "Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)",
+      "url": "https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/",
+      "summary": "",
+      "score": 210,
+      "comments": 101,
+      "hn_link": "https://news.ycombinator.com/item?id=47139224",
+      "source": "Hacker News",
+      "is_ai": true,
+      "companies": [],
+      "priority": 1,
+      "title_zh": "大阪：关西机场为从未丢失过单件行李而自豪（ 2024年）",
+      "summary_zh": ""
+    }
+  ]
+}

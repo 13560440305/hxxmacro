@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "generated_at": "2026-02-24T21:16:41.460115",
+    "version": "2.1",
+    "description": "国际金融数据：美股、港股、黄金、外汇"
+  },
+  "us_stocks": [
+    {
+      "name": "道琼斯",
+      "code": "DJI",
+      "error": "数据获取失败"
+    },
+    {
+      "name": "纳斯达克",
+      "code": "IXIC",
+      "error": "数据获取失败"
+    },
+    {
+      "name": "标普500",
+      "code": "INX",
+      "error": "数据获取失败"
+    }
+  ],
+  "hk_stocks": [
+    {
+      "name": "恒生指数",
+      "code": "HSI",
+      "error": "数据源不可用"
+    }
+  ],
+  "gold": [
+    {
+      "name": "黄金现货",
+      "code": "XAU",
+      "error": "数据源不可用"
+    }
+  ],
+  "forex": [
+    {
+      "pair": "USDCNY",
+      "name": "美元/人民币",
+      "rate": 6.92,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:17:01"
+    },
+    {
+      "pair": "USDEUR",
+      "name": "美元/欧元",
+      "rate": 0.848,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:17:01"
+    },
+    {
+      "pair": "USDJPY",
+      "name": "美元/日元",
+      "rate": 154.59,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:17:01"
+    },
+    {
+      "pair": "USDGBP",
+      "name": "美元/英镑",
+      "rate": 0.741,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:17:01"
+    },
+    {
+      "pair": "USDAUD",
+      "name": "美元/澳元",
+      "rate": 1.42,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-02-24 21:17:01"
+    }
+  ]
+}

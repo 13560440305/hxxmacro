@@ -1,0 +1,183 @@
+{
+  "generated": "2026-02-25T21:26:51.763043",
+  "china": [
+    {
+      "country": "中国",
+      "country_en": "China",
+      "indicator": "失业率",
+      "indicator_en": "Unemployment Rate",
+      "value": 4.62,
+      "unit": "%",
+      "year": "2025",
+      "source": "世界银行",
+      "source_en": "World Bank"
+    },
+    {
+      "country": "中国",
+      "country_en": "China",
+      "indicator": "LPR(1年期)",
+      "indicator_en": "LPR (1 Year)",
+      "value": "3.10",
+      "unit": "%",
+      "period": "2025年2月",
+      "source": "中国人民银行",
+      "source_en": "People's Bank of China",
+      "note": "贷款市场报价利率"
+    },
+    {
+      "country": "中国",
+      "country_en": "China",
+      "indicator": "存款准备金率",
+      "indicator_en": "Reserve Requirement Ratio",
+      "value": "10.0",
+      "unit": "%",
+      "period": "2025年2月",
+      "source": "中国人民银行",
+      "source_en": "People's Bank of China",
+      "note": "大型金融机构存款准备金率"
+    },
+    {
+      "country": "中国",
+      "country_en": "China",
+      "indicator": "制造业PMI",
+      "indicator_en": "Manufacturing PMI",
+      "value": "49.2",
+      "unit": "",
+      "period": "2025年1月",
+      "source": "国家统计局",
+      "source_en": "National Bureau of Statistics",
+      "note": "采购经理指数，50为荣枯线"
+    },
+    {
+      "country": "中国",
+      "country_en": "China",
+      "indicator": "CPI同比",
+      "indicator_en": "CPI YoY",
+      "value": "0.5",
+      "unit": "%",
+      "period": "2025年1月",
+      "source": "国家统计局",
+      "source_en": "National Bureau of Statistics",
+      "note": "居民消费价格指数"
+    }
+  ],
+  "us": [
+    {
+      "country": "美国",
+      "country_en": "United States",
+      "indicator": "联邦基金利率",
+      "indicator_en": "Federal Funds Rate",
+      "value": "4.50",
+      "unit": "%",
+      "period": "2025年2月",
+      "source": "美联储",
+      "source_en": "Federal Reserve",
+      "note": "目标利率区间 4.25%-4.50%"
+    },
+    {
+      "country": "美国",
+      "country_en": "United States",
+      "indicator": "CPI同比",
+      "indicator_en": "CPI YoY",
+      "value": "3.0",
+      "unit": "%",
+      "period": "2025年1月",
+      "source": "劳工统计局",
+      "source_en": "Bureau of Labor Statistics",
+      "note": "消费者价格指数"
+    },
+    {
+      "country": "美国",
+      "country_en": "United States",
+      "indicator": "失业率",
+      "indicator_en": "Unemployment Rate",
+      "value": "4.0",
+      "unit": "%",
+      "period": "2025年1月",
+      "source": "劳工统计局",
+      "source_en": "Bureau of Labor Statistics",
+      "note": "非农失业率"
+    }
+  ],
+  "eu": [
+    {
+      "country": "欧元区",
+      "country_en": "Euro Area",
+      "indicator": "失业率",
+      "indicator_en": "Unemployment Rate",
+      "value": 6.33,
+      "unit": "%",
+      "year": "2025",
+      "source": "世界银行",
+      "source_en": "World Bank"
+    },
+    {
+      "country": "欧元区",
+      "country_en": "Euro Area",
+      "indicator": "主要再融资利率",
+      "indicator_en": "Main Refinancing Rate",
+      "value": "4.00",
+      "unit": "%",
+      "period": "2025年2月",
+      "source": "欧洲央行",
+      "source_en": "European Central Bank",
+      "note": "欧元区基准利率"
+    },
+    {
+      "country": "欧元区",
+      "country_en": "Euro Area",
+      "indicator": "HICP同比",
+      "indicator_en": "HICP YoY",
+      "value": "2.5",
+      "unit": "%",
+      "period": "2025年1月",
+      "source": "欧盟统计局",
+      "source_en": "Eurostat",
+      "note": "调和消费者价格指数"
+    }
+  ],
+  "japan": [
+    {
+      "country": "日本",
+      "country_en": "Japan",
+      "indicator": "政策利率",
+      "indicator_en": "Policy Rate",
+      "value": "0.50",
+      "unit": "%",
+      "period": "2025年2月",
+      "source": "日本央行",
+      "source_en": "Bank of Japan",
+      "note": "短期政策利率"
+    },
+    {
+      "country": "日本",
+      "country_en": "Japan",
+      "indicator": "CPI同比",
+      "indicator_en": "CPI YoY",
+      "value": "3.2",
+      "unit": "%",
+      "period": "2025年1月",
+      "source": "日本统计局",
+      "source_en": "Statistics Bureau of Japan",
+      "note": "消费者价格指数（除生鲜食品）"
+    }
+  ],
+  "commodities": [
+    {
+      "name": "黄金",
+      "name_en": "Gold",
+      "price": "2920.50",
+      "change_percent": "+0.5",
+      "source": "市场数据",
+      "source_en": "Market Data"
+    },
+    {
+      "name": "原油(WTI)",
+      "name_en": "Crude Oil (WTI)",
+      "price": "78.50",
+      "change_percent": "+1.2",
+      "source": "市场数据",
+      "source_en": "Market Data"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "generated": "2026-02-25T21:38:33.971519",
+  "precious_metals": [
+    {
+      "name": "黄金",
+      "name_en": "Gold",
+      "symbol": "XAU",
+      "current": 2920.5,
+      "change": 15.3,
+      "change_percent": 0.53,
+      "unit": "美元/盎司",
+      "trend": "📈",
+      "source": "市场数据",
+      "source_en": "Market Data"
+    },
+    {
+      "name": "白银",
+      "name_en": "Silver",
+      "symbol": "XAG",
+      "current": 32.45,
+      "change": 0.28,
+      "change_percent": 0.87,
+      "unit": "美元/盎司",
+      "trend": "📈",
+      "source": "市场数据",
+      "source_en": "Market Data"
+    },
+    {
+      "name": "铂金",
+      "name_en": "Platinum",
+      "symbol": "XPT",
+      "current": 985.0,
+      "change": -5.5,
+      "change_percent": -0.56,
+      "unit": "美元/盎司",
+      "trend": "📉",
+      "source": "市场数据",
+      "source_en": "Market Data"
+    },
+    {
+      "name": "钯金",
+      "name_en": "Palladium",
+      "symbol": "XPD",
+      "current": 945.0,
+      "change": 12.0,
+      "change_percent": 1.29,
+      "unit": "美元/盎司",
+      "trend": "📈",
+      "source": "市场数据",
+      "source_en": "Market Data"
+    }
+  ],
+  "industrial_metals": [
+    {
+      "name": "铜",
+      "name_en": "Copper",
+      "symbol": "CU",
+      "current": "9520.50",
+      "change": "+85.50",
+      "change_percent": "+0.91",
+      "unit": "美元/吨",
+      "trend": "📈",
+      "source": "市场数据"
+    },
+    {
+      "name": "铝",
+      "name_en": "Aluminum",
+      "symbol": "AL",
+      "current": "2685.00",
+      "change": "+22.00",
+      "change_percent": "+0.83",
+      "unit": "美元/吨",
+      "trend": "📈",
+      "source": "市场数据"
+    },
+    {
+      "name": "锌",
+      "name_en": "Zinc",
+      "symbol": "ZN",
+      "current": "2890.00",
+      "change": "-15.00",
+      "change_percent": "-0.52",
+      "unit": "美元/吨",
+      "trend": "📉",
+      "source": "市场数据"
+    }
+  ],
+  "shanghai_gold": [
+    {
+      "name": "Au99.99",
+      "name_en": "Au99.99",
+      "symbol": "Au99.99",
+      "description": "黄金现货",
+      "current": "682.50",
+      "change": "+3.20",
+      "change_percent": "+0.47",
+      "unit": "元/克",
+      "trend": "📈",
+      "source": "市场数据"
+    },
+    {
+      "name": "Ag99.99",
+      "name_en": "Ag99.99",
+      "symbol": "Ag99.99",
+      "description": "白银现货",
+      "current": "7890.00",
+      "change": "+55.00",
+      "change_percent": "+0.70",
+      "unit": "元/千克",
+      "trend": "📈",
+      "source": "市场数据"
+    }
+  ],
+  "gold_etf": [
+    {
+      "name": "黄金ETF",
+      "name_en": "黄金ETF ETF",
+      "code": "518880",
+      "description": "华安黄金ETF",
+      "current": 109.59,
+      "change": 0.09,
+      "change_percent": 0.08,
+      "trend": "📈",
+      "source": "上交所",
+      "source_en": "SSE",
+      "timestamp": "2026-02-25T21:38:33.971225"
+    },
+    {
+      "name": "黄金基金",
+      "name_en": "黄金基金 ETF",
+      "code": "518800",
+      "description": "国泰黄金ETF",
+      "current": 108.22,
+      "change": 0.03,
+      "change_percent": 0.03,
+      "trend": "📈",
+      "source": "上交所",
+      "source_en": "SSE",
+      "timestamp": "2026-02-25T21:38:33.971240"
+    }
+  ]
+}

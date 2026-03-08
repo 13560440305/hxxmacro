@@ -1,0 +1,31 @@
+# 投资理财、黄金、贵金属、外汇数据源
+
+## 外汇（Forex）
+1. 外汇行情（新浪财经）
+   https://finance.sina.com.cn/forex/
+2. XE Currency API（需注册）
+   https://www.xe.com/apidocs/
+3. ExchangeRate-API（免费层）
+   https://www.exchangerate-api.com/
+4. 中国人民银行汇率中间价（公开页面）
+   http://www.pbc.gov.cn/zhengcehuobisi/125207/125217/125925/index.html
+
+## 黄金与贵金属
+1. 伦敦金（现货黄金）行情（新浪）
+   https://finance.sina.com.cn/futures/quotes/GC.shtml
+2. 金十数据（需抓取）
+   https://www.jin10.com/
+3. 世界黄金协会（公开报告）
+   https://www.gold.org/goldhub/data
+4. Kitco Metals（公开报价）
+   https://www.kitcometals.com/
+
+## 投资理财（基金、债券等）
+1. 天天基金网（东方财富旗下）
+   https://fund.eastmoney.com/
+2. 晨星基金（需抓取）
+   https://www.morningstar.cn/
+3. 中国债券信息网
+   https://www.chinabond.com.cn/
+4. 雪球（股票社区/数据）
+   https://xueqiu.com/

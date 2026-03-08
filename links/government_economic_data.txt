@@ -1,0 +1,44 @@
+# 国家经济贸易数据（公开来源）
+
+## 中国
+1. 国家统计局（数据发布）
+   http://www.stats.gov.cn/
+   - 月度/季度/年度经济指标
+   - CPI、PPI、GDP、工业增加值等
+
+2. 海关总署（进出口数据）
+   http://www.customs.gov.cn/
+   - 月度进出口统计
+
+3. 中国人民银行（金融数据）
+   http://www.pbc.gov.cn/
+   - 货币供应量、社会融资规模、存贷款数据
+
+4. 财政部（财政数据）
+   http://www.mof.gov.cn/
+   - 财政收入/支出、债务数据
+
+5. 商务部（贸易投资数据）
+   http://www.mofcom.gov.cn/
+   - 外商投资、对外投资、消费市场数据
+
+## 国际
+1. 世界银行公开数据 API
+   https://data.worldbank.org/
+   - GDP、人口、贸易等全球指标
+
+2. IMF（国际货币基金组织）数据
+   https://www.imf.org/en/Data
+   - 全球经济展望、汇率、债务数据
+
+3. OECD（经合组织）数据
+   https://data.oecd.org/
+   - 成员国经济指标
+
+4. 美国经济分析局（BEA）
+   https://www.bea.gov/data
+   - 美国GDP、贸易、收入数据
+
+5. 美联储经济数据（FRED）
+   https://fred.stlouisfed.org/
+   - 美国及国际金融经济时间序列（API支持）

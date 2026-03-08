@@ -1,0 +1,19 @@
+# AI与科技类数据源（测试状态）
+# 更新时间: 2026-02-14
+
+1. NewsAPI (technology) - 需要正式API密钥，demo仅返回提示
+   API示例: https://newsapi.org/v2/top-headlines?category=technology&apiKey=YOUR_KEY
+
+2. Hacker News API (公开)
+   API: https://hacker-news.firebaseio.com/v0/topstories.json?print=pretty
+   详情: https://github.com/HackerNews/API
+
+3. TechCrunch RSS (可抓取)
+   RSS: https://techcrunch.com/feed/
+
+4. The Verge AI板块
+   页面: https://www.theverge.com/ai-artificial-intelligence
+   注: 需用浏览器或动态抓取。
+
+5. arXiv API (学术论文)
+   API: http://export.arxiv.org/api/query?search_query=cat:cs.AI&max_results=10
