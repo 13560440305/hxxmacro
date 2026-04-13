@@ -203,6 +203,7 @@ def fetch_forex_rates():
             # 主要货币对
             pairs = [
                 ('USDCNY', 'CNY', '美元/人民币'),
+                ('USDHKD', 'HKD', '美元/港币'),
                 ('USDEUR', 'EUR', '美元/欧元'),
                 ('USDJPY', 'JPY', '美元/日元'),
                 ('USDGBP', 'GBP', '美元/英镑'),
@@ -236,6 +237,7 @@ def fetch_forex_rates():
             
             pairs = [
                 ('USDCNY', 'CNY', '美元/人民币'),
+                ('USDHKD', 'HKD', '美元/港币'),
                 ('USDEUR', 'EUR', '美元/欧元'),
                 ('USDJPY', 'JPY', '美元/日元'),
                 ('USDSGD', 'SGD', '美元/新加坡元'),
