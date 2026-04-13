@@ -221,6 +221,25 @@ def fetch_forex_rates():
                         'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                     })
             
+            # 计算交叉汇率（人民币/港币等）
+            if 'CNY' in rates and 'HKD' in rates:
+                cny_hkd = rates['HKD'] / rates['CNY']  # 1人民币 = X港币
+                hkd_cny = rates['CNY'] / rates['HKD']  # 1港币 = X人民币
+                results.append({
+                    'pair': 'CNYHKD',
+                    'name': '人民币/港币',
+                    'rate': round(cny_hkd, 4),
+                    'source': 'ExchangeRate-API (计算)',
+                    'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                })
+                results.append({
+                    'pair': 'HKDCNY',
+                    'name': '港币/人民币',
+                    'rate': round(hkd_cny, 4),
+                    'source': 'ExchangeRate-API (计算)',
+                    'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                })
+            
             print(f"   ✅ 成功获取 {len(results)} 个汇率")
             return results
     except Exception as e:
@@ -252,6 +271,25 @@ def fetch_forex_rates():
                         'source': 'Open Exchange Rate',
                         'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                     })
+            
+            # 计算交叉汇率
+            if 'CNY' in rates and 'HKD' in rates:
+                cny_hkd = rates['HKD'] / rates['CNY']
+                hkd_cny = rates['CNY'] / rates['HKD']
+                results.append({
+                    'pair': 'CNYHKD',
+                    'name': '人民币/港币',
+                    'rate': round(cny_hkd, 4),
+                    'source': 'Open Exchange Rate (计算)',
+                    'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                })
+                results.append({
+                    'pair': 'HKDCNY',
+                    'name': '港币/人民币',
+                    'rate': round(hkd_cny, 4),
+                    'source': 'Open Exchange Rate (计算)',
+                    'timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+                })
             
             print(f"   ✅ 备用API成功获取 {len(results)} 个汇率")
     except Exception as e:

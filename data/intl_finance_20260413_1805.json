@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "generated_at": "2026-04-13T18:05:10.750690",
+    "version": "3.0",
+    "description": "国际金融数据：美股、港股、黄金、外汇",
+    "data_source": "Stooq (波兰) + Yahoo Finance + ExchangeRate-API",
+    "optimized_for": "新加坡服务器"
+  },
+  "us_stocks": [
+    {
+      "name": "道琼斯工业平均指数",
+      "symbol": "^dji",
+      "price": "47916.57",
+      "source": "Stooq",
+      "timestamp": "2026-04-13 18:05:12"
+    },
+    {
+      "name": "标普500指数",
+      "symbol": "^spx",
+      "price": "6816.89",
+      "source": "Stooq",
+      "timestamp": "2026-04-13 18:05:14"
+    },
+    {
+      "name": "纳斯达克综合指数",
+      "symbol": "^ndq",
+      "price": "22902.89",
+      "source": "Stooq",
+      "timestamp": "2026-04-13 18:05:16"
+    }
+  ],
+  "hk_stocks": [
+    {
+      "name": "恒生指数",
+      "symbol": "^hsi",
+      "price": "25660.85",
+      "source": "Stooq",
+      "timestamp": "2026-04-13 18:05:18"
+    }
+  ],
+  "gold": [
+    {
+      "name": "黄金期货",
+      "symbol": "gc.f",
+      "price": "4737.55",
+      "source": "Stooq",
+      "timestamp": "2026-04-13 18:05:19",
+      "unit": "期货价格"
+    }
+  ],
+  "forex": [
+    {
+      "pair": "USDCNY",
+      "name": "美元/人民币",
+      "rate": 6.84,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-04-13 18:05:20"
+    },
+    {
+      "pair": "USDHKD",
+      "name": "美元/港币",
+      "rate": 7.83,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-04-13 18:05:20"
+    },
+    {
+      "pair": "USDEUR",
+      "name": "美元/欧元",
+      "rate": 0.856,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-04-13 18:05:20"
+    },
+    {
+      "pair": "USDJPY",
+      "name": "美元/日元",
+      "rate": 159.68,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-04-13 18:05:20"
+    },
+    {
+      "pair": "USDGBP",
+      "name": "美元/英镑",
+      "rate": 0.746,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-04-13 18:05:20"
+    },
+    {
+      "pair": "USDAUD",
+      "name": "美元/澳元",
+      "rate": 1.42,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-04-13 18:05:20"
+    },
+    {
+      "pair": "USDSGD",
+      "name": "美元/新加坡元",
+      "rate": 1.28,
+      "source": "ExchangeRate-API",
+      "timestamp": "2026-04-13 18:05:20"
+    },
+    {
+      "pair": "CNYHKD",
+      "name": "人民币/港币",
+      "rate": 1.1447,
+      "source": "ExchangeRate-API (计算)",
+      "timestamp": "2026-04-13 18:05:20"
+    },
+    {
+      "pair": "HKDCNY",
+      "name": "港币/人民币",
+      "rate": 0.8736,
+      "source": "ExchangeRate-API (计算)",
+      "timestamp": "2026-04-13 18:05:20"
+    }
+  ]
+}
